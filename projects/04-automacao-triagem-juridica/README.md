@@ -47,3 +47,7 @@ python -m unittest discover -s projects/04-automacao-triagem-juridica -p "test_d
 
 ## Limitações e governança
 A prioridade é informada na entrada; o script apenas valida o catálogo. A data interna é uma referência administrativa informada no CSV, não prazo legal. Nenhuma conclusão jurídica é gerada. Registros pendentes devem ser revisados por pessoa autorizada. Uma implantação real exigiria controles de acesso, retenção, auditoria e proteção de dados.
+
+## Validação automatizada
+
+O repositório inclui testes com `unittest` para validar registros completos, campos obrigatórios ausentes, datas inválidas, protocolos duplicados, categorias fora do catálogo e consistência entre datas. Também há verificações de integridade das bases sintéticas dos projetos de Varejo e Legal Operations. O workflow é executado em alterações nos projetos e em pull requests direcionados à branch `main`.
