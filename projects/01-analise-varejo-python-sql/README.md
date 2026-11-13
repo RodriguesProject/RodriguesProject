@@ -37,3 +37,12 @@ O arquivo de consultas inclui funções de janela (`LAG`, `ROW_NUMBER`), variaç
 
 ## Limitações
 Exercício com dados artificiais. Não contempla impostos, devoluções, frete, descontos complexos ou sazonalidade validada. Indicadores didáticos, sem uso comercial.
+
+## Kit Power BI
+
+O diretório `powerbi/` contém um guia para montar o dashboard no Power BI Desktop, medidas DAX, calendário e tema visual. A entrega inclui recursos de preparação, não um arquivo `.pbix` pronto.
+
+- [Guia de montagem do painel](powerbi/README.md)
+- [Medidas DAX](powerbi/MEDIDAS.dax)
+- [Tabela calendário](powerbi/CALENDARIO.dax)
+- [Tema visual](powerbi/TEMA_RODRIGUES.json)
