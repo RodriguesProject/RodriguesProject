@@ -73,6 +73,15 @@ Estudo de um processo fictício de recebimento e triagem de demandas, documentad
 - [Requisitos](projects/03-business-analysis-processos/03-requisitos.md)
 - [Histórias de usuário](projects/03-business-analysis-processos/04-user-stories.md)
 
+### 04 · Automação de Triagem Jurídico-Administrativa
+
+Automação demonstrativa em Python para validar campos, identificar duplicidades e organizar solicitações fictícias em filas de validação e revisão humana, com testes automatizados e modelo SQL.
+
+- [Documentação do projeto](projects/04-automacao-triagem-juridica/README.md)
+- [Código Python](projects/04-automacao-triagem-juridica/src/triagem.py)
+- [Testes automatizados](projects/04-automacao-triagem-juridica/tests/)
+- [Consultas SQL](projects/04-automacao-triagem-juridica/sql/consultas.sql)
+
 ## Formação acadêmica e tecnológica
 
 - Bacharelado em Administração — UNIVILLE
