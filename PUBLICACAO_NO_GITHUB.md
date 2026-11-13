@@ -1,59 +1,57 @@
-# Como publicar este portfólio no GitHub
+# Guia de manutenção e publicação do portfólio
 
-## 1. Criar o repositório de perfil
+Este guia corresponde ao repositório existente **RodriguesProject/RodriguesProject**. Não é necessário criar outro repositório para manter o README do perfil.
 
-1. Entre em https://github.com/new.
-2. Crie um repositório **público** chamado exatamente `RodriguesProject` (igual ao nome de usuário).
-3. Não marque opções para gerar README, `.gitignore` ou licença, pois este pacote já contém esses arquivos.
-4. Extraia o conteúdo deste ZIP e envie o conteúdo da pasta `RodriguesProject_Portfolio_Premium` para a raiz do novo repositório.
-5. Faça o commit com uma mensagem como `Adiciona portfólio profissional e projetos demonstrativos`.
+## 1. Repositório e estrutura
 
-O arquivo `README.md` na raiz aparecerá automaticamente na página do perfil, desde que o repositório público tenha o mesmo nome do usuário.
+- Repositório: https://github.com/RodriguesProject/RodriguesProject
+- Branch principal: `main`
+- README de perfil: `README.md`
+- Site estático: `index.html`
+- Estilos: `assets/style.css`
+- Projetos: `projects/`
 
-## 2. Atualizar a biografia curta do perfil
+O README será exibido no perfil GitHub porque o repositório público tem o mesmo nome do usuário.
 
-Sugestão para o campo Bio do GitHub (substitui a referência incorreta a JavaScript):
+## 2. GitHub Pages
 
-> Administração & Direito | Business Analysis | Data Analytics em formação | Python, Java, SQL, PostgreSQL, MongoDB | Legal Tech | Joinville/SC
+Para publicar o site:
 
-Use Java, não JavaScript, salvo se também tiver estudado JavaScript de fato. Mantenha os níveis técnicos como fundamentos/em formação no README.
-
-## 3. Ativar GitHub Pages
-
-1. Abra Settings > Pages no repositório `RodriguesProject`.
-2. Em Build and deployment, selecione Deploy from a branch.
+1. Abra o repositório e acesse **Settings → Pages**.
+2. Em **Build and deployment**, selecione **Deploy from a branch**.
 3. Selecione a branch `main` e a pasta `/(root)`.
-4. Salve e aguarde o GitHub Pages publicar.
+4. Salve e aguarde a implantação.
+5. Confirme a URL e o status apresentados na própria página Settings → Pages.
 
-A URL esperada será `https://rodriguesproject.github.io/RodriguesProject/` após a publicação. Confirme a URL exibida em Settings > Pages.
+Como este é um repositório de projeto com nome igual ao usuário (e não o repositório especial `usuario.github.io`), a URL esperada, após ativação, é:
 
-## 4. Preservar os repositórios existentes
+`https://rodriguesproject.github.io/RodriguesProject/`
 
-Não substitua nem exclua `Docs_public` ou `Aulas_SCTEC`. Este portfólio foi preparado para um novo repositório de perfil com nome igual ao usuário.
+Não divulgue o endereço como site ativo antes de confirmar que o GitHub Pages terminou a implantação.
 
-## 5. Antes de tornar público
+## 3. Validação automática
 
-- Revise o README e os links de contato.
-- Não acrescente telefone, endereço residencial ou dados pessoais desnecessários.
-- Os dados CSV deste pacote são sintéticos e podem permanecer públicos.
-- Não faça upload de documentos de clientes, processos reais, credenciais, tokens ou arquivos `.env`.
-- Confira se o seu nome de usuário está exatamente como `RodriguesProject`.
+O workflow `.github/workflows/portfolio-validation.yml` executa os dois scripts Python de análise e verifica se os arquivos de saída são gerados. A validação é executada em commits e pull requests que alterem os projetos.
 
-## 6. Estrutura entregue
+O selo de status no README mostra o resultado da execução mais recente do workflow.
 
-```text
-RodriguesProject_Portfolio_Premium/
-├── README.md
-├── index.html
-├── assets/
-│   └── style.css
-├── projects/
-│   ├── 01-analise-varejo-python-sql/
-│   ├── 02-legal-operations-analytics/
-│   └── 03-business-analysis-processos/
-└── PUBLICACAO_NO_GITHUB.md
-```
+## 4. Atualizar projetos
 
-## 7. Transparência profissional
+Antes de publicar um novo projeto:
 
-Os projetos foram preparados como estudos demonstrativos com dados gerados artificialmente. Atualize seu LinkedIn e currículo somente depois de revisar os códigos, executar os projetos e compreender as etapas descritas.
+- Inclua um README com objetivo, perguntas de negócio, tecnologias, dados, etapas, resultados, como executar e limitações.
+- Inclua dados de origem pública ou sintéticos; documente a fonte e a licença, quando aplicável.
+- Não publique documentos jurídicos reais, dados pessoais, informações de clientes, credenciais, tokens ou arquivos `.env`.
+- Execute o código localmente e confira se os resultados citados no README correspondem aos arquivos gerados.
+- Declare honestamente o nível de domínio das ferramentas e identifique projetos de estudo como demonstrativos.
+
+## 5. Próximas melhorias recomendadas
+
+- Adicionar testes automatizados de qualidade de dados.
+- Criar um dashboard interativo em Power BI ou ferramenta equivalente, quando houver domínio prático.
+- Ampliar os projetos com consultas SQL adicionais e documentação de modelagem.
+- Acrescentar um projeto com API ou automação somente depois de construído e testado.
+
+## 6. Repositórios de estudos
+
+Mantenha os repositórios de aulas e exercícios separados dos projetos de portfólio. O repositório de perfil deve funcionar como uma vitrine: destacar os melhores trabalhos e encaminhar o recrutador para a documentação de cada projeto.
