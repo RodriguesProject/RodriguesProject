@@ -1,0 +1,16 @@
+{
+  "name": "Rodrigues Project - Analytics",
+  "dataColors": [
+    "#0B1F33",
+    "#167D9A",
+    "#38BFC2",
+    "#5B8DEF",
+    "#6A7D9A",
+    "#A6D9D7",
+    "#D5A64A",
+    "#A4B4C3"
+  ],
+  "background": "#F5F8FC",
+  "foreground": "#172B4D",
+  "tableAccent": "#167D9A"
+}
