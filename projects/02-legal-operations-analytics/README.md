@@ -5,23 +5,19 @@
 ![Demandas em andamento por área — dados sintéticos](outputs/demandas_por_area.png)
 
 ## Perguntas de negócio
-
 - Quantas demandas estão em andamento?
-- Quantas demandas abertas possuem prazo de referência vencido na data-base?
-- Como as demandas se distribuem por área e etapa?
+- Quantas têm prazo de referência vencido na data-base?
+- Como se distribuem por área, etapa e responsável?
 - Qual o valor referencial agregado da carteira aberta?
-- Qual é o tempo médio desde a abertura das demandas em andamento?
+- Qual a antiguidade média das demandas em andamento?
 
 ## Tecnologias
-
-Python, Pandas, Matplotlib, PostgreSQL/SQL e conceitos de qualidade de dados; exemplos introdutórios de documentos e consultas MongoDB.
+Python, Pandas, Matplotlib, PostgreSQL/SQL e exemplos introdutórios de MongoDB.
 
 ## Dados e privacidade
-
-`data/demandas_sinteticas.csv` contém 180 registros artificiais. Identificadores, equipes, áreas, datas e valores são fictícios. Não há dados pessoais, clientes ou processos reais. A data-base da análise é 13/11/2026.
+`data/demandas_sinteticas.csv` contém 180 registros artificiais. A data-base é 13/11/2026. Não há dados de clientes ou processos reais.
 
 ## Execução
-
 ```bash
 python -m venv .venv
 # Windows PowerShell: .venv\Scripts\Activate.ps1
@@ -31,17 +27,14 @@ python src/analise_legal_ops.py
 ```
 
 ## Estrutura
-
 - `data/`: base sintética.
-- `src/analise_legal_ops.py`: validação e indicadores.
-- `sql/`: estrutura e consultas PostgreSQL.
-- `mongodb/`: exemplos de documentos JSON e consultas para estudo NoSQL.
-- `outputs/`: relatórios gerados na execução.
+- `src/`: validação e indicadores.
+- `sql/`: schema e consultas PostgreSQL.
+- `mongodb/`: exemplo de documento e consultas NoSQL.
+- `outputs/`: relatórios e gráfico.
 
-## Indicadores
-
-Demandas em andamento, prazos de referência vencidos, valor referencial aberto, idade média das demandas em andamento e distribuição por área.
+## Consultas adicionais
+Inclui análise de carga por responsável e faixas de antiguidade, além de contagem condicional e agregações.
 
 ## Limitações
-
-O campo `prazo_referencia` é apenas um atributo de dados fictício para exercício analítico. Não representa prazo processual calculado conforme lei, calendário forense, intimação, suspensão ou regra processual. Este projeto não realiza análise jurídica nem recomenda decisões sobre processos reais.
+O campo `prazo_referencia` é um atributo fictício para análise de dados. Não representa prazo processual calculado conforme lei, intimação, suspensão ou calendário forense. O projeto não recomenda decisões sobre processos reais.
