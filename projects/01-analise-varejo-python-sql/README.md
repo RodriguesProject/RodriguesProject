@@ -1,26 +1,22 @@
 # Projeto 01 — Análise de Varejo com Python e SQL
 
-**Objetivo:** demonstrar um fluxo introdutório de análise de dados, desde a leitura e validação de uma base até a geração de indicadores e consultas SQL.
+**Objetivo:** demonstrar um fluxo introdutório de análise de dados, da leitura e validação de uma base à geração de indicadores e consultas SQL.
 
 ![Receita mensal — base sintética](outputs/receita_mensal.png)
 
 ## Perguntas de negócio
-
 1. Qual foi a receita, o custo estimado e a margem bruta por mês?
 2. Quais categorias geraram maior receita?
 3. Como os canais de venda se comparam?
 4. Quais regiões concentram as vendas?
 
 ## Tecnologias
-
 Python, Pandas, Matplotlib, PostgreSQL e SQL.
 
 ## Dados
-
-`data/vendas_sinteticas.csv` contém 600 registros artificiais gerados para este projeto. Não são dados de clientes ou empresas reais. Os valores não representam desempenho de mercado.
+`data/vendas_sinteticas.csv` contém 600 registros artificiais. Não são dados de clientes ou empresas reais.
 
 ## Como executar
-
 ```bash
 python -m venv .venv
 # Windows PowerShell: .venv\Scripts\Activate.ps1
@@ -29,22 +25,15 @@ pip install -r requirements.txt
 python src/analise_vendas.py
 ```
 
-Os resultados serão gravados em `outputs/` (resumos CSV e gráfico PNG).
-
 ## Estrutura
-
-- `data/`: base sintética de entrada.
-- `src/analise_vendas.py`: limpeza, métricas e visualização.
+- `data/`: base sintética.
+- `src/analise_vendas.py`: validação, métricas e visualização.
 - `sql/schema.sql`: estrutura PostgreSQL.
-- `sql/consultas.sql`: exemplos de consultas analíticas.
-- `outputs/`: resultados produzidos ao executar o script.
+- `sql/consultas.sql`: consultas analíticas.
+- `outputs/`: relatórios e gráfico.
 
-Para carregar no PostgreSQL, execute `sql/schema.sql` e depois use `\\copy vendas FROM 'projects/01-analise-varejo-python-sql/data/vendas_sinteticas.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',')` no `psql`, ajustando o caminho conforme seu diretório de trabalho.
-
-## Indicadores calculados
-
-Receita bruta, custo estimado, margem bruta, volume vendido, receita por categoria, canal, região e mês.
+## Consultas SQL adicionais
+O arquivo de consultas inclui funções de janela (`LAG`, `ROW_NUMBER`), variação mensal e identificação do produto de maior receita por categoria.
 
 ## Limitações
-
-É um exercício de portfólio com dados artificiais. Não aborda impostos, devoluções, frete, descontos complexos ou sazonalidade validada. Os indicadores são didáticos e não devem ser usados para decisões comerciais reais.
+Exercício com dados artificiais. Não contempla impostos, devoluções, frete, descontos complexos ou sazonalidade validada. Indicadores didáticos, sem uso comercial.
