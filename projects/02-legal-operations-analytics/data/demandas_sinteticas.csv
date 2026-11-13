@@ -1,0 +1,181 @@
+demanda_id,area,etapa,data_abertura,ultima_atualizacao,prazo_referencia,valor_referencia_brl,responsavel,status
+DEM-0001,Contratual,Aguardando decisão,2024-07-02,2024-11-02,2026-12-03,81816.82,Equipe C,Em andamento
+DEM-0002,Empresarial,Instrução,2025-06-14,2026-01-23,2026-09-25,173102.78,Equipe B,Em andamento
+DEM-0003,Cível,Instrução,2024-10-08,2026-11-07,2025-03-05,183757.44,Equipe C,Em andamento
+DEM-0004,Contratual,Cumprimento,2024-12-10,2025-05-03,2025-11-08,142106.02,Equipe B,Em andamento
+DEM-0005,Trabalhista,Aguardando decisão,2024-07-09,2024-08-29,2026-12-17,152959.03,Equipe D,Em andamento
+DEM-0006,Empresarial,Cumprimento,2026-06-16,2026-08-24,2026-10-03,10776.22,Equipe D,Em andamento
+DEM-0007,Contratual,Instrução,2026-08-04,2026-10-12,2026-08-14,4812.18,Equipe B,Em andamento
+DEM-0008,Cível,Instrução,2024-06-15,2025-11-15,2025-05-16,24051.97,Equipe D,Em andamento
+DEM-0009,Empresarial,Análise inicial,2024-09-17,2025-11-28,2026-11-20,112125.63,Equipe A,Em andamento
+DEM-0010,Trabalhista,Cumprimento,2025-02-10,2026-02-14,2026-12-18,153938.13,Equipe B,Em andamento
+DEM-0011,Trabalhista,Cumprimento,2024-11-10,2026-07-31,2026-08-21,182759.57,Equipe D,Em andamento
+DEM-0012,Cível,Cumprimento,2025-02-01,2026-11-10,2026-12-05,14832.72,Equipe A,Em andamento
+DEM-0013,Cível,Análise inicial,2025-07-05,2025-08-05,2026-07-07,4045.29,Equipe D,Em andamento
+DEM-0014,Imobiliário,Encerrado,2024-07-31,2025-05-10,2025-05-10,10258.33,Equipe B,Encerrado
+DEM-0015,Empresarial,Encerrado,2026-05-19,2026-05-23,2026-05-28,108973.88,Equipe D,Encerrado
+DEM-0016,Imobiliário,Cumprimento,2025-01-05,2026-01-22,2025-08-04,100064.79,Equipe C,Em andamento
+DEM-0017,Consumidor,Análise inicial,2025-03-19,2026-11-11,2027-01-29,88293.29,Equipe B,Em andamento
+DEM-0018,Contratual,Encerrado,2026-02-12,2026-04-07,2026-04-07,89067.14,Equipe A,Encerrado
+DEM-0019,Cível,Instrução,2026-01-21,2026-04-10,2026-05-12,54319.46,Equipe D,Em andamento
+DEM-0020,Contratual,Instrução,2025-08-08,2026-02-25,2026-12-02,19228.39,Equipe C,Em andamento
+DEM-0021,Trabalhista,Encerrado,2026-07-13,2026-09-16,2026-09-21,80937.17,Equipe A,Encerrado
+DEM-0022,Imobiliário,Análise inicial,2025-06-07,2026-07-06,2026-08-28,47653.24,Equipe D,Em andamento
+DEM-0023,Empresarial,Cumprimento,2024-03-01,2026-07-06,2026-12-07,48433.35,Equipe B,Em andamento
+DEM-0024,Consumidor,Cumprimento,2025-05-27,2026-06-20,2025-05-28,126335.96,Equipe C,Em andamento
+DEM-0025,Empresarial,Cumprimento,2025-04-23,2026-03-15,2027-01-07,124231.72,Equipe A,Em andamento
+DEM-0026,Imobiliário,Instrução,2025-01-26,2026-08-29,2026-03-29,134726.65,Equipe C,Em andamento
+DEM-0027,Consumidor,Aguardando decisão,2026-04-04,2026-10-31,2027-01-30,8402.41,Equipe C,Em andamento
+DEM-0028,Consumidor,Encerrado,2024-08-19,2025-08-02,2025-08-02,87138.9,Equipe C,Encerrado
+DEM-0029,Cível,Encerrado,2026-02-13,2026-04-23,2026-04-28,145049.89,Equipe B,Encerrado
+DEM-0030,Consumidor,Encerrado,2024-02-28,2025-12-10,2025-12-20,11877.61,Equipe C,Encerrado
+DEM-0031,Consumidor,Encerrado,2025-11-17,2026-03-15,2026-03-15,105040.12,Equipe A,Encerrado
+DEM-0032,Trabalhista,Encerrado,2026-03-13,2026-05-18,2026-05-18,44081.41,Equipe A,Encerrado
+DEM-0033,Consumidor,Instrução,2026-08-03,2026-09-23,2026-10-20,121892.41,Equipe C,Em andamento
+DEM-0034,Contratual,Aguardando decisão,2025-10-08,2025-12-16,2026-12-24,12326.82,Equipe B,Em andamento
+DEM-0035,Cível,Cumprimento,2024-02-27,2026-09-06,2027-02-08,83467.73,Equipe D,Em andamento
+DEM-0036,Imobiliário,Encerrado,2026-05-22,2026-07-02,2026-07-12,11047.64,Equipe A,Encerrado
+DEM-0037,Trabalhista,Instrução,2024-08-26,2025-06-04,2026-12-24,175058.85,Equipe C,Em andamento
+DEM-0038,Consumidor,Instrução,2025-05-16,2025-11-03,2025-05-27,79851.85,Equipe A,Em andamento
+DEM-0039,Empresarial,Instrução,2024-07-27,2024-09-03,2026-08-17,164651.09,Equipe D,Em andamento
+DEM-0040,Trabalhista,Cumprimento,2025-10-10,2026-10-10,2027-01-26,142948.74,Equipe C,Em andamento
+DEM-0041,Trabalhista,Aguardando decisão,2024-11-09,2026-10-23,2027-02-02,157928.38,Equipe A,Em andamento
+DEM-0042,Imobiliário,Instrução,2024-11-30,2026-09-21,2026-06-03,167018.64,Equipe B,Em andamento
+DEM-0043,Imobiliário,Encerrado,2024-06-11,2025-11-04,2025-11-14,66226.74,Equipe D,Encerrado
+DEM-0044,Trabalhista,Aguardando decisão,2026-05-31,2026-09-13,2027-02-04,133971.06,Equipe D,Em andamento
+DEM-0045,Trabalhista,Instrução,2025-02-08,2025-03-13,2026-12-16,63278.32,Equipe C,Em andamento
+DEM-0046,Empresarial,Cumprimento,2025-04-20,2025-06-27,2026-04-05,124924.1,Equipe A,Em andamento
+DEM-0047,Empresarial,Encerrado,2024-02-12,2025-12-21,2025-12-26,180697.17,Equipe C,Encerrado
+DEM-0048,Empresarial,Cumprimento,2024-09-25,2026-09-19,2025-07-06,67241.63,Equipe D,Em andamento
+DEM-0049,Empresarial,Encerrado,2025-08-06,2025-11-06,2025-11-11,41418.68,Equipe B,Encerrado
+DEM-0050,Cível,Cumprimento,2024-04-08,2026-02-23,2025-10-14,60466.94,Equipe B,Em andamento
+DEM-0051,Empresarial,Aguardando decisão,2024-07-04,2025-04-11,2026-12-17,82953.17,Equipe A,Em andamento
+DEM-0052,Imobiliário,Encerrado,2026-05-19,2026-09-22,2026-10-02,80389.05,Equipe C,Encerrado
+DEM-0053,Consumidor,Análise inicial,2024-08-25,2025-06-03,2027-01-08,179574.9,Equipe B,Em andamento
+DEM-0054,Imobiliário,Encerrado,2025-06-22,2026-06-22,2026-06-22,16629.77,Equipe B,Encerrado
+DEM-0055,Cível,Encerrado,2025-11-29,2025-12-01,2025-12-01,136511.68,Equipe A,Encerrado
+DEM-0056,Consumidor,Análise inicial,2024-10-06,2025-12-19,2026-12-20,27217.65,Equipe C,Em andamento
+DEM-0057,Cível,Encerrado,2024-11-29,2025-06-08,2025-06-08,82877.15,Equipe A,Encerrado
+DEM-0058,Imobiliário,Encerrado,2026-07-20,2026-09-06,2026-09-16,33407.73,Equipe B,Encerrado
+DEM-0059,Trabalhista,Encerrado,2025-07-14,2025-08-17,2025-08-22,27946.29,Equipe B,Encerrado
+DEM-0060,Empresarial,Instrução,2024-10-31,2024-11-04,2026-11-29,121427.3,Equipe D,Em andamento
+DEM-0061,Cível,Encerrado,2024-04-15,2025-10-03,2025-10-08,83321.89,Equipe C,Encerrado
+DEM-0062,Consumidor,Cumprimento,2025-12-23,2026-06-26,2027-01-24,122584.68,Equipe D,Em andamento
+DEM-0063,Empresarial,Cumprimento,2024-06-11,2025-10-26,2027-01-21,100193.33,Equipe B,Em andamento
+DEM-0064,Trabalhista,Cumprimento,2025-10-21,2025-12-15,2026-12-31,86683.21,Equipe A,Em andamento
+DEM-0065,Empresarial,Instrução,2025-04-13,2026-07-02,2026-05-15,97177.53,Equipe A,Em andamento
+DEM-0066,Consumidor,Cumprimento,2024-01-04,2026-08-08,2026-12-14,171778.98,Equipe C,Em andamento
+DEM-0067,Contratual,Encerrado,2024-02-01,2024-05-27,2024-06-06,30564.79,Equipe D,Encerrado
+DEM-0068,Contratual,Análise inicial,2025-01-29,2025-12-19,2025-12-22,13051.94,Equipe D,Em andamento
+DEM-0069,Imobiliário,Aguardando decisão,2024-06-09,2024-08-20,2026-12-27,160658.2,Equipe C,Em andamento
+DEM-0070,Contratual,Encerrado,2025-11-16,2026-06-13,2026-06-18,20372.28,Equipe D,Encerrado
+DEM-0071,Cível,Instrução,2024-04-14,2024-08-02,2027-01-15,51195.68,Equipe D,Em andamento
+DEM-0072,Empresarial,Análise inicial,2024-11-27,2026-10-28,2026-11-08,173014.22,Equipe D,Em andamento
+DEM-0073,Cível,Instrução,2024-07-02,2026-03-10,2027-01-04,37732.14,Equipe D,Em andamento
+DEM-0074,Empresarial,Instrução,2026-01-27,2026-10-30,2026-12-29,4743.26,Equipe A,Em andamento
+DEM-0075,Consumidor,Instrução,2025-01-27,2025-02-15,2027-01-24,166650.28,Equipe D,Em andamento
+DEM-0076,Trabalhista,Encerrado,2025-08-08,2025-08-28,2025-08-28,106429.56,Equipe B,Encerrado
+DEM-0077,Consumidor,Encerrado,2025-04-04,2025-12-06,2025-12-16,99834.82,Equipe D,Encerrado
+DEM-0078,Trabalhista,Cumprimento,2025-09-13,2026-06-01,2026-05-17,20780.33,Equipe D,Em andamento
+DEM-0079,Trabalhista,Instrução,2024-10-25,2025-04-04,2025-09-30,154745.94,Equipe B,Em andamento
+DEM-0080,Consumidor,Aguardando decisão,2025-11-04,2026-08-29,2027-01-16,18739.41,Equipe A,Em andamento
+DEM-0081,Empresarial,Aguardando decisão,2025-01-10,2025-06-26,2025-10-03,118673.6,Equipe B,Em andamento
+DEM-0082,Consumidor,Encerrado,2025-02-11,2025-09-26,2025-10-06,124949.98,Equipe D,Encerrado
+DEM-0083,Imobiliário,Encerrado,2024-01-17,2024-05-04,2024-05-09,78374.85,Equipe B,Encerrado
+DEM-0084,Imobiliário,Instrução,2025-06-17,2026-08-21,2026-07-07,183351.46,Equipe A,Em andamento
+DEM-0085,Cível,Análise inicial,2024-07-14,2026-07-28,2025-07-08,141835.0,Equipe B,Em andamento
+DEM-0086,Trabalhista,Análise inicial,2025-10-05,2025-10-17,2026-07-22,75607.77,Equipe C,Em andamento
+DEM-0087,Imobiliário,Encerrado,2024-11-12,2026-02-10,2026-02-20,133033.13,Equipe B,Encerrado
+DEM-0088,Consumidor,Instrução,2025-04-18,2025-06-23,2025-09-12,143950.47,Equipe D,Em andamento
+DEM-0089,Imobiliário,Cumprimento,2025-07-19,2026-01-25,2026-12-21,183871.94,Equipe A,Em andamento
+DEM-0090,Empresarial,Aguardando decisão,2025-08-31,2026-06-27,2027-02-07,50316.47,Equipe A,Em andamento
+DEM-0091,Contratual,Cumprimento,2024-09-07,2024-11-27,2026-12-25,92843.47,Equipe B,Em andamento
+DEM-0092,Trabalhista,Aguardando decisão,2025-05-10,2025-07-08,2026-07-21,93028.02,Equipe B,Em andamento
+DEM-0093,Empresarial,Análise inicial,2026-03-14,2026-06-21,2026-04-03,150058.05,Equipe C,Em andamento
+DEM-0094,Consumidor,Aguardando decisão,2024-02-27,2025-07-23,2027-01-14,39942.28,Equipe B,Em andamento
+DEM-0095,Consumidor,Encerrado,2025-04-14,2025-10-24,2025-10-29,117631.78,Equipe D,Encerrado
+DEM-0096,Consumidor,Cumprimento,2026-04-02,2026-05-29,2026-07-09,54625.57,Equipe C,Em andamento
+DEM-0097,Trabalhista,Instrução,2024-08-04,2024-11-13,2027-02-07,102721.62,Equipe C,Em andamento
+DEM-0098,Trabalhista,Cumprimento,2025-07-09,2026-07-15,2026-12-02,100892.72,Equipe D,Em andamento
+DEM-0099,Consumidor,Análise inicial,2024-01-17,2026-08-11,2027-02-01,3085.17,Equipe C,Em andamento
+DEM-0100,Imobiliário,Instrução,2026-02-24,2026-03-05,2026-09-19,95210.37,Equipe D,Em andamento
+DEM-0101,Contratual,Análise inicial,2026-05-12,2026-08-04,2026-11-29,144555.17,Equipe A,Em andamento
+DEM-0102,Consumidor,Encerrado,2024-11-08,2025-06-08,2025-06-08,62175.74,Equipe D,Encerrado
+DEM-0103,Trabalhista,Cumprimento,2024-08-18,2025-10-03,2025-01-26,116127.03,Equipe D,Em andamento
+DEM-0104,Imobiliário,Cumprimento,2025-01-09,2026-09-25,2025-07-16,84615.62,Equipe A,Em andamento
+DEM-0105,Contratual,Encerrado,2024-04-03,2026-02-12,2026-02-12,56684.8,Equipe D,Encerrado
+DEM-0106,Trabalhista,Análise inicial,2024-03-12,2024-07-26,2026-12-14,161615.28,Equipe C,Em andamento
+DEM-0107,Cível,Encerrado,2026-07-20,2026-10-26,2026-10-31,178252.71,Equipe D,Encerrado
+DEM-0108,Empresarial,Encerrado,2025-06-22,2026-05-15,2026-05-20,48924.45,Equipe D,Encerrado
+DEM-0109,Imobiliário,Encerrado,2026-05-08,2026-05-17,2026-05-27,113122.5,Equipe B,Encerrado
+DEM-0110,Imobiliário,Análise inicial,2025-09-03,2025-09-13,2027-01-10,93518.53,Equipe B,Em andamento
+DEM-0111,Imobiliário,Cumprimento,2025-03-18,2025-05-16,2025-07-05,123185.35,Equipe C,Em andamento
+DEM-0112,Contratual,Instrução,2025-05-11,2026-08-12,2026-06-25,65710.37,Equipe A,Em andamento
+DEM-0113,Imobiliário,Cumprimento,2026-02-23,2026-10-26,2026-11-20,184450.99,Equipe B,Em andamento
+DEM-0114,Cível,Análise inicial,2024-01-09,2024-10-21,2026-09-21,61799.98,Equipe D,Em andamento
+DEM-0115,Consumidor,Encerrado,2025-11-02,2026-01-15,2026-01-20,172913.0,Equipe C,Encerrado
+DEM-0116,Cível,Encerrado,2026-07-22,2026-10-11,2026-10-11,159296.58,Equipe C,Encerrado
+DEM-0117,Contratual,Cumprimento,2026-02-10,2026-07-02,2027-02-08,69015.82,Equipe B,Em andamento
+DEM-0118,Cível,Análise inicial,2026-06-26,2026-08-17,2026-08-18,63974.93,Equipe A,Em andamento
+DEM-0119,Consumidor,Cumprimento,2025-09-07,2025-09-22,2027-02-02,145133.2,Equipe A,Em andamento
+DEM-0120,Trabalhista,Aguardando decisão,2024-12-02,2026-09-01,2025-01-21,137932.45,Equipe A,Em andamento
+DEM-0121,Consumidor,Aguardando decisão,2026-03-12,2026-09-16,2027-02-01,32221.92,Equipe B,Em andamento
+DEM-0122,Cível,Cumprimento,2025-10-25,2026-04-02,2026-01-29,162764.94,Equipe B,Em andamento
+DEM-0123,Empresarial,Encerrado,2024-07-09,2025-08-11,2025-08-16,119414.39,Equipe C,Encerrado
+DEM-0124,Trabalhista,Encerrado,2024-11-06,2026-04-22,2026-05-02,63368.17,Equipe D,Encerrado
+DEM-0125,Trabalhista,Aguardando decisão,2026-03-28,2026-09-10,2026-08-09,58890.62,Equipe C,Em andamento
+DEM-0126,Contratual,Instrução,2024-12-28,2026-03-18,2027-01-26,109211.6,Equipe C,Em andamento
+DEM-0127,Cível,Análise inicial,2026-01-04,2026-08-12,2027-01-25,50603.07,Equipe D,Em andamento
+DEM-0128,Cível,Aguardando decisão,2024-12-05,2025-09-09,2027-01-19,146843.97,Equipe B,Em andamento
+DEM-0129,Trabalhista,Análise inicial,2025-03-12,2026-05-08,2025-06-24,152253.2,Equipe A,Em andamento
+DEM-0130,Imobiliário,Cumprimento,2026-05-06,2026-05-21,2026-07-18,156975.9,Equipe D,Em andamento
+DEM-0131,Empresarial,Instrução,2024-09-22,2026-06-13,2026-09-15,29454.52,Equipe D,Em andamento
+DEM-0132,Contratual,Cumprimento,2024-09-20,2026-09-19,2026-12-14,152191.55,Equipe A,Em andamento
+DEM-0133,Imobiliário,Aguardando decisão,2024-08-01,2025-12-03,2027-01-26,62381.19,Equipe B,Em andamento
+DEM-0134,Empresarial,Cumprimento,2024-12-29,2025-11-02,2026-12-14,56033.85,Equipe D,Em andamento
+DEM-0135,Imobiliário,Instrução,2025-11-06,2026-10-02,2026-03-11,63009.92,Equipe B,Em andamento
+DEM-0136,Consumidor,Encerrado,2025-12-01,2026-01-20,2026-01-20,166167.69,Equipe B,Encerrado
+DEM-0137,Contratual,Instrução,2025-05-26,2025-11-23,2026-12-02,123491.35,Equipe D,Em andamento
+DEM-0138,Imobiliário,Encerrado,2024-04-17,2026-04-18,2026-04-28,170039.03,Equipe D,Encerrado
+DEM-0139,Empresarial,Aguardando decisão,2026-03-28,2026-11-12,2026-09-09,174210.16,Equipe D,Em andamento
+DEM-0140,Contratual,Análise inicial,2024-01-08,2025-01-04,2024-01-18,5083.68,Equipe C,Em andamento
+DEM-0141,Cível,Encerrado,2025-09-28,2026-10-22,2026-10-22,118094.72,Equipe A,Encerrado
+DEM-0142,Imobiliário,Cumprimento,2026-05-09,2026-09-30,2026-11-27,162216.97,Equipe C,Em andamento
+DEM-0143,Empresarial,Instrução,2024-06-06,2025-12-06,2025-09-11,134950.11,Equipe D,Em andamento
+DEM-0144,Imobiliário,Cumprimento,2025-08-09,2026-06-01,2026-02-11,68851.62,Equipe C,Em andamento
+DEM-0145,Imobiliário,Encerrado,2026-03-21,2026-08-08,2026-08-08,89542.6,Equipe A,Encerrado
+DEM-0146,Imobiliário,Análise inicial,2025-09-11,2026-09-11,2025-09-19,45060.73,Equipe B,Em andamento
+DEM-0147,Trabalhista,Cumprimento,2025-07-12,2026-08-19,2025-12-10,108041.03,Equipe B,Em andamento
+DEM-0148,Contratual,Análise inicial,2025-08-18,2026-04-17,2025-10-10,128356.0,Equipe C,Em andamento
+DEM-0149,Trabalhista,Instrução,2024-03-10,2024-06-30,2025-08-29,104531.09,Equipe C,Em andamento
+DEM-0150,Empresarial,Instrução,2024-10-20,2025-12-18,2027-01-15,28122.67,Equipe D,Em andamento
+DEM-0151,Imobiliário,Análise inicial,2026-02-03,2026-09-10,2027-01-18,170298.33,Equipe C,Em andamento
+DEM-0152,Contratual,Instrução,2025-11-22,2026-04-12,2026-12-11,67046.43,Equipe A,Em andamento
+DEM-0153,Contratual,Cumprimento,2024-12-19,2025-04-21,2027-01-22,44926.77,Equipe D,Em andamento
+DEM-0154,Imobiliário,Cumprimento,2025-05-03,2025-08-20,2025-09-17,85805.06,Equipe C,Em andamento
+DEM-0155,Trabalhista,Instrução,2025-05-26,2025-11-27,2025-09-25,178813.28,Equipe D,Em andamento
+DEM-0156,Consumidor,Instrução,2026-08-06,2026-08-29,2026-12-31,66640.04,Equipe B,Em andamento
+DEM-0157,Cível,Encerrado,2025-06-11,2026-08-22,2026-09-01,156775.39,Equipe B,Encerrado
+DEM-0158,Trabalhista,Encerrado,2026-03-01,2026-10-08,2026-10-08,113968.97,Equipe D,Encerrado
+DEM-0159,Cível,Cumprimento,2025-10-10,2026-09-25,2026-11-15,105702.22,Equipe C,Em andamento
+DEM-0160,Contratual,Instrução,2025-04-04,2025-09-18,2025-08-27,104801.29,Equipe D,Em andamento
+DEM-0161,Trabalhista,Cumprimento,2026-06-22,2026-08-28,2026-10-12,175426.91,Equipe C,Em andamento
+DEM-0162,Empresarial,Encerrado,2024-02-19,2026-04-27,2026-05-07,14395.18,Equipe A,Encerrado
+DEM-0163,Empresarial,Instrução,2025-11-03,2026-06-24,2027-02-09,66110.43,Equipe C,Em andamento
+DEM-0164,Empresarial,Análise inicial,2024-06-28,2024-08-07,2026-04-21,92622.3,Equipe C,Em andamento
+DEM-0165,Trabalhista,Cumprimento,2025-08-10,2026-08-23,2026-12-22,52428.37,Equipe B,Em andamento
+DEM-0166,Contratual,Aguardando decisão,2024-07-29,2026-01-24,2026-02-09,173025.76,Equipe C,Em andamento
+DEM-0167,Consumidor,Encerrado,2025-04-28,2026-01-11,2026-01-16,155269.61,Equipe D,Encerrado
+DEM-0168,Cível,Análise inicial,2024-01-15,2025-08-09,2025-08-02,33361.43,Equipe D,Em andamento
+DEM-0169,Consumidor,Cumprimento,2024-08-12,2026-10-08,2027-01-07,107804.13,Equipe A,Em andamento
+DEM-0170,Consumidor,Análise inicial,2025-06-06,2026-01-31,2025-08-16,165510.5,Equipe C,Em andamento
+DEM-0171,Cível,Instrução,2025-11-08,2026-10-01,2026-05-01,13248.2,Equipe B,Em andamento
+DEM-0172,Consumidor,Análise inicial,2026-06-20,2026-09-04,2026-12-20,93673.38,Equipe A,Em andamento
+DEM-0173,Cível,Encerrado,2024-11-22,2025-10-24,2025-11-03,76963.63,Equipe D,Encerrado
+DEM-0174,Imobiliário,Cumprimento,2026-04-26,2026-08-06,2026-07-10,29197.76,Equipe B,Em andamento
+DEM-0175,Consumidor,Aguardando decisão,2025-05-21,2025-09-30,2026-12-22,20173.79,Equipe B,Em andamento
+DEM-0176,Empresarial,Aguardando decisão,2025-01-29,2025-04-10,2026-12-15,102796.45,Equipe A,Em andamento
+DEM-0177,Contratual,Encerrado,2024-04-25,2025-10-22,2025-11-01,22592.84,Equipe A,Encerrado
+DEM-0178,Trabalhista,Análise inicial,2024-05-29,2025-07-03,2025-02-27,41422.13,Equipe B,Em andamento
+DEM-0179,Cível,Cumprimento,2025-07-28,2026-08-24,2026-10-17,122741.91,Equipe B,Em andamento
+DEM-0180,Imobiliário,Análise inicial,2025-04-17,2025-04-21,2026-07-19,146287.42,Equipe B,Em andamento

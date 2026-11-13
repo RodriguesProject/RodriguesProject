@@ -1,0 +1,9 @@
+flowchart TD
+    A[Receber solicitação] --> B{Campos completos?}
+    B -- Não --> C[Solicitar complementação]
+    C --> A
+    B -- Sim --> D[Gerar identificador]
+    D --> E[Classificar categoria e prioridade]
+    E --> F[Designar responsável]
+    F --> G[Analisar e atualizar status]
+    G --> H[Consolidar indicadores]

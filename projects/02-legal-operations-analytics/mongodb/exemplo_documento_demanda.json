@@ -1,0 +1,15 @@
+{
+  "demanda_id": "DEM-DEMO-0001",
+  "dados_sinteticos": true,
+  "area": "Cível",
+  "etapa": "Análise inicial",
+  "datas": {
+    "abertura": "2026-01-15",
+    "ultima_atualizacao": "2026-02-02",
+    "prazo_referencia": "2026-03-16"
+  },
+  "valor_referencia_brl": 25000.00,
+  "responsavel": "Equipe A",
+  "status": "Em andamento",
+  "marcadores": ["triagem", "documentacao", "acompanhamento"]
+}

@@ -1,0 +1,1 @@
+Análise concluída. 600 registros válidos. Resultados em: /mnt/data/RodriguesProject_Portfolio_Premium/projects/01-analise-varejo-python-sql/outputs

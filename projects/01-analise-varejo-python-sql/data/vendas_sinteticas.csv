@@ -1,0 +1,601 @@
+pedido_id,data_pedido,regiao,canal,categoria,produto,quantidade,preco_unitario,custo_unitario
+PED00001,2025-04-02,Sul,Loja física,Tecnologia,Teclado mecânico,1,286.16,155
+PED00002,2025-02-03,Sul,Marketplace,Escritório,Cadeira ergonômica,1,909.77,650
+PED00003,2025-06-06,Centro-Oeste,Marketplace,Tecnologia,Monitor 24 pol.,3,820.8,610
+PED00004,2025-12-25,Nordeste,Loja física,Casa,Garrafa térmica,3,109.79,52
+PED00005,2025-12-17,Sul,Loja física,Acessórios,Mochila,3,202.14,95
+PED00006,2025-09-04,Sul,Marketplace,Casa,Garrafa térmica,3,106.72,52
+PED00007,2025-08-14,Centro-Oeste,E-commerce,Casa,Garrafa térmica,2,102.94,52
+PED00008,2025-01-01,Sudeste,E-commerce,Escritório,Luminária LED,1,97.63,38
+PED00009,2025-08-31,Sudeste,E-commerce,Acessórios,Mochila,2,186.53,95
+PED00010,2025-08-03,Sul,Marketplace,Acessórios,Mochila,3,197.76,95
+PED00011,2025-03-22,Norte,Marketplace,Escritório,Luminária LED,2,99.8,38
+PED00012,2025-02-02,Norte,E-commerce,Escritório,Cadeira ergonômica,3,997.74,650
+PED00013,2025-03-30,Norte,E-commerce,Casa,Luminária de mesa,5,136.54,72
+PED00014,2025-09-06,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,4,163.67,88
+PED00015,2025-12-31,Norte,Loja física,Escritório,Luminária LED,5,92.84,38
+PED00016,2025-01-25,Sudeste,E-commerce,Acessórios,Mochila,1,198.36,95
+PED00017,2025-09-26,Sudeste,E-commerce,Acessórios,Mochila,3,176.18,95
+PED00018,2025-06-16,Nordeste,E-commerce,Escritório,Luminária LED,3,101.91,38
+PED00019,2025-11-27,Sul,Loja física,Acessórios,Mochila,4,202.39,95
+PED00020,2025-02-04,Nordeste,Loja física,Escritório,Mesa compacta,2,645.02,390
+PED00021,2025-04-27,Norte,Loja física,Escritório,Luminária LED,2,88.13,38
+PED00022,2025-08-30,Centro-Oeste,Loja física,Escritório,Cadeira ergonômica,2,1001.86,650
+PED00023,2025-06-29,Norte,Marketplace,Tecnologia,Teclado mecânico,2,289.74,155
+PED00024,2025-09-12,Sudeste,Loja física,Tecnologia,Headset,1,195.92,110
+PED00025,2025-04-06,Sudeste,Loja física,Casa,Organizador,1,75.59,29
+PED00026,2025-11-15,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,1,78.4,42
+PED00027,2025-04-13,Nordeste,Marketplace,Escritório,Luminária LED,1,96.37,38
+PED00028,2025-05-15,Nordeste,E-commerce,Escritório,Mesa compacta,1,618.49,390
+PED00029,2025-10-10,Centro-Oeste,E-commerce,Casa,Luminária de mesa,1,154.89,72
+PED00030,2025-11-04,Sul,Marketplace,Escritório,Mesa compacta,1,571.05,390
+PED00031,2025-02-04,Nordeste,Loja física,Escritório,Mesa compacta,3,572.79,390
+PED00032,2025-11-08,Norte,Marketplace,Escritório,Luminária LED,1,88.16,38
+PED00033,2025-09-29,Centro-Oeste,E-commerce,Acessórios,Mochila,2,203.51,95
+PED00034,2025-11-15,Centro-Oeste,Marketplace,Tecnologia,Headset,1,226.57,110
+PED00035,2025-01-27,Norte,E-commerce,Acessórios,Mochila,3,181.16,95
+PED00036,2025-11-24,Centro-Oeste,E-commerce,Tecnologia,Mouse sem fio,1,83.01,42
+PED00037,2025-03-09,Nordeste,Loja física,Acessórios,Mochila,3,177.33,95
+PED00038,2025-10-15,Sul,Loja física,Escritório,Luminária LED,2,88.83,38
+PED00039,2025-11-24,Norte,Marketplace,Escritório,Mesa compacta,3,662.76,390
+PED00040,2025-04-04,Norte,Marketplace,Acessórios,Hub USB-C,2,171.22,88
+PED00041,2025-06-03,Norte,E-commerce,Escritório,Mesa compacta,3,658.17,390
+PED00042,2025-06-14,Norte,Loja física,Acessórios,Suporte notebook,4,112.83,54
+PED00043,2025-02-15,Norte,E-commerce,Escritório,Cadeira ergonômica,2,1025.67,650
+PED00044,2025-09-29,Norte,E-commerce,Tecnologia,Mouse sem fio,1,78.66,42
+PED00045,2025-07-25,Norte,Loja física,Acessórios,Hub USB-C,3,169.49,88
+PED00046,2025-04-30,Norte,E-commerce,Acessórios,Suporte notebook,1,119.9,54
+PED00047,2025-01-04,Sudeste,Loja física,Tecnologia,Monitor 24 pol.,2,914.96,610
+PED00048,2025-10-01,Nordeste,Marketplace,Acessórios,Suporte notebook,3,122.01,54
+PED00049,2025-05-24,Norte,Marketplace,Tecnologia,Mouse sem fio,1,86.17,42
+PED00050,2025-05-25,Centro-Oeste,Loja física,Tecnologia,Monitor 24 pol.,3,871.66,610
+PED00051,2025-10-04,Norte,E-commerce,Casa,Garrafa térmica,1,112.62,52
+PED00052,2025-07-13,Sudeste,Marketplace,Acessórios,Suporte notebook,1,124.82,54
+PED00053,2025-02-09,Norte,E-commerce,Escritório,Luminária LED,4,101.57,38
+PED00054,2025-12-20,Sul,Marketplace,Escritório,Luminária LED,1,89.79,38
+PED00055,2025-05-28,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,2,91.15,42
+PED00056,2025-05-23,Centro-Oeste,E-commerce,Escritório,Mesa compacta,1,584.76,390
+PED00057,2025-05-06,Sul,E-commerce,Acessórios,Hub USB-C,1,156.13,88
+PED00058,2025-06-28,Sudeste,E-commerce,Escritório,Cadeira ergonômica,2,946.49,650
+PED00059,2025-03-10,Sudeste,Marketplace,Acessórios,Hub USB-C,2,162.91,88
+PED00060,2025-01-17,Sudeste,E-commerce,Tecnologia,Headset,2,219.9,110
+PED00061,2025-10-26,Norte,Marketplace,Acessórios,Mochila,4,176.56,95
+PED00062,2025-08-22,Sul,Marketplace,Escritório,Luminária LED,1,87.89,38
+PED00063,2025-06-03,Sul,E-commerce,Tecnologia,Mouse sem fio,1,88.88,42
+PED00064,2025-01-03,Sudeste,E-commerce,Escritório,Mesa compacta,4,608.32,390
+PED00065,2025-10-10,Sul,Loja física,Tecnologia,Headset,1,206.38,110
+PED00066,2025-06-19,Nordeste,Marketplace,Escritório,Mesa compacta,1,620.19,390
+PED00067,2025-06-22,Nordeste,E-commerce,Acessórios,Mochila,2,185.86,95
+PED00068,2025-01-18,Norte,E-commerce,Acessórios,Suporte notebook,1,115.75,54
+PED00069,2025-01-09,Nordeste,Marketplace,Tecnologia,Mouse sem fio,1,88.71,42
+PED00070,2025-12-31,Centro-Oeste,Marketplace,Escritório,Mesa compacta,1,635.17,390
+PED00071,2025-06-25,Sudeste,Marketplace,Acessórios,Hub USB-C,1,167.52,88
+PED00072,2025-07-14,Centro-Oeste,Marketplace,Tecnologia,Monitor 24 pol.,2,953.8,610
+PED00073,2025-06-20,Sudeste,Loja física,Casa,Organizador,4,70.65,29
+PED00074,2025-02-18,Norte,E-commerce,Acessórios,Suporte notebook,2,124.77,54
+PED00075,2025-09-22,Sudeste,Marketplace,Escritório,Luminária LED,1,94.06,38
+PED00076,2025-07-12,Sul,E-commerce,Acessórios,Hub USB-C,2,153.11,88
+PED00077,2025-01-10,Sul,Loja física,Acessórios,Mochila,2,189.2,95
+PED00078,2025-07-18,Norte,Marketplace,Tecnologia,Teclado mecânico,3,272.14,155
+PED00079,2025-01-05,Sudeste,E-commerce,Escritório,Luminária LED,3,88.4,38
+PED00080,2025-09-29,Centro-Oeste,Marketplace,Casa,Luminária de mesa,2,149.36,72
+PED00081,2025-12-08,Sul,E-commerce,Escritório,Mesa compacta,3,614.01,390
+PED00082,2025-07-14,Sul,E-commerce,Tecnologia,Headset,3,214.09,110
+PED00083,2025-05-16,Centro-Oeste,E-commerce,Escritório,Luminária LED,1,97.36,38
+PED00084,2025-02-24,Nordeste,Marketplace,Tecnologia,Headset,1,216.01,110
+PED00085,2025-11-07,Sudeste,Loja física,Acessórios,Suporte notebook,1,120.89,54
+PED00086,2025-09-21,Sul,E-commerce,Tecnologia,Monitor 24 pol.,3,866.96,610
+PED00087,2025-05-03,Nordeste,Marketplace,Casa,Garrafa térmica,1,116.09,52
+PED00088,2025-09-16,Norte,Loja física,Tecnologia,Monitor 24 pol.,1,917.63,610
+PED00089,2025-01-27,Nordeste,Loja física,Acessórios,Hub USB-C,1,149.15,88
+PED00090,2025-11-07,Nordeste,Marketplace,Escritório,Mesa compacta,1,622.25,390
+PED00091,2025-09-02,Sudeste,Loja física,Acessórios,Hub USB-C,1,170.62,88
+PED00092,2025-12-11,Centro-Oeste,Loja física,Casa,Luminária de mesa,1,135.24,72
+PED00093,2025-10-05,Nordeste,Loja física,Tecnologia,Teclado mecânico,3,259.51,155
+PED00094,2025-09-17,Sul,E-commerce,Tecnologia,Headset,3,207.5,110
+PED00095,2025-12-30,Norte,Loja física,Tecnologia,Teclado mecânico,1,291.64,155
+PED00096,2025-08-06,Centro-Oeste,E-commerce,Escritório,Cadeira ergonômica,1,908.43,650
+PED00097,2025-07-26,Norte,Loja física,Escritório,Mesa compacta,5,574.31,390
+PED00098,2025-07-22,Sudeste,Marketplace,Casa,Organizador,1,77.61,29
+PED00099,2025-08-26,Nordeste,Marketplace,Acessórios,Mochila,1,182.48,95
+PED00100,2025-06-03,Nordeste,Loja física,Escritório,Mesa compacta,3,640.12,390
+PED00101,2025-12-08,Nordeste,E-commerce,Acessórios,Suporte notebook,1,122.15,54
+PED00102,2025-01-15,Nordeste,E-commerce,Tecnologia,Teclado mecânico,1,274.95,155
+PED00103,2025-10-11,Norte,E-commerce,Tecnologia,Monitor 24 pol.,1,936.9,610
+PED00104,2025-11-28,Nordeste,E-commerce,Casa,Luminária de mesa,1,154.68,72
+PED00105,2025-03-08,Nordeste,E-commerce,Casa,Garrafa térmica,1,111.62,52
+PED00106,2025-01-06,Norte,Marketplace,Escritório,Mesa compacta,4,643.39,390
+PED00107,2025-03-03,Norte,E-commerce,Acessórios,Suporte notebook,2,129.36,54
+PED00108,2025-09-01,Sudeste,E-commerce,Casa,Luminária de mesa,1,138.24,72
+PED00109,2025-08-14,Sudeste,Marketplace,Escritório,Cadeira ergonômica,2,1053.61,650
+PED00110,2025-09-02,Nordeste,E-commerce,Acessórios,Suporte notebook,1,123.33,54
+PED00111,2025-01-05,Norte,Marketplace,Casa,Luminária de mesa,2,156.25,72
+PED00112,2025-05-22,Sudeste,E-commerce,Tecnologia,Teclado mecânico,1,258.97,155
+PED00113,2025-06-08,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,1,81.67,42
+PED00114,2025-07-26,Sudeste,Marketplace,Escritório,Luminária LED,1,94.02,38
+PED00115,2025-04-27,Norte,Loja física,Acessórios,Mochila,2,197.07,95
+PED00116,2025-12-07,Sul,Marketplace,Casa,Luminária de mesa,3,154.57,72
+PED00117,2025-12-12,Sudeste,Marketplace,Escritório,Cadeira ergonômica,1,913.45,650
+PED00118,2025-12-15,Nordeste,E-commerce,Escritório,Luminária LED,1,95.24,38
+PED00119,2025-04-08,Sudeste,Loja física,Escritório,Cadeira ergonômica,1,951.08,650
+PED00120,2025-10-01,Sul,E-commerce,Acessórios,Mochila,5,183.42,95
+PED00121,2025-03-18,Norte,Loja física,Escritório,Luminária LED,3,99.19,38
+PED00122,2025-06-18,Norte,Marketplace,Escritório,Cadeira ergonômica,1,938.18,650
+PED00123,2025-10-19,Centro-Oeste,E-commerce,Tecnologia,Monitor 24 pol.,3,868.15,610
+PED00124,2025-01-10,Centro-Oeste,Marketplace,Escritório,Mesa compacta,1,628.04,390
+PED00125,2025-02-14,Sul,Loja física,Escritório,Luminária LED,2,98.41,38
+PED00126,2025-03-06,Nordeste,Marketplace,Casa,Garrafa térmica,4,110.94,52
+PED00127,2025-02-25,Sudeste,Loja física,Escritório,Mesa compacta,2,596.08,390
+PED00128,2025-06-28,Nordeste,Marketplace,Escritório,Luminária LED,2,99.67,38
+PED00129,2025-06-20,Norte,Loja física,Casa,Garrafa térmica,2,101.34,52
+PED00130,2025-07-08,Norte,Loja física,Casa,Luminária de mesa,3,151.78,72
+PED00131,2025-07-24,Sul,Marketplace,Escritório,Cadeira ergonômica,1,1035.77,650
+PED00132,2025-09-01,Sul,E-commerce,Casa,Luminária de mesa,1,144.19,72
+PED00133,2025-08-28,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,1,913.02,610
+PED00134,2025-06-07,Sul,E-commerce,Casa,Organizador,1,76.99,29
+PED00135,2025-01-03,Nordeste,Marketplace,Casa,Organizador,1,77.67,29
+PED00136,2025-07-09,Norte,Loja física,Casa,Luminária de mesa,1,145.79,72
+PED00137,2025-07-21,Norte,Marketplace,Acessórios,Mochila,1,193.83,95
+PED00138,2025-01-31,Centro-Oeste,Marketplace,Tecnologia,Teclado mecânico,2,262.71,155
+PED00139,2025-09-08,Centro-Oeste,Marketplace,Escritório,Luminária LED,4,90.27,38
+PED00140,2025-12-20,Sudeste,Marketplace,Casa,Organizador,2,71.18,29
+PED00141,2025-12-22,Centro-Oeste,Marketplace,Acessórios,Suporte notebook,2,121.57,54
+PED00142,2025-05-17,Norte,E-commerce,Acessórios,Suporte notebook,4,116.82,54
+PED00143,2025-01-11,Sudeste,Loja física,Escritório,Mesa compacta,1,663.56,390
+PED00144,2025-04-11,Norte,E-commerce,Acessórios,Suporte notebook,2,116.56,54
+PED00145,2025-07-04,Centro-Oeste,Loja física,Escritório,Cadeira ergonômica,1,909.98,650
+PED00146,2025-12-03,Sul,E-commerce,Casa,Organizador,1,77.01,29
+PED00147,2025-04-01,Centro-Oeste,Marketplace,Casa,Garrafa térmica,3,102.67,52
+PED00148,2025-03-17,Nordeste,Loja física,Casa,Luminária de mesa,3,145.08,72
+PED00149,2025-11-11,Norte,Marketplace,Acessórios,Hub USB-C,1,151.15,88
+PED00150,2025-03-27,Centro-Oeste,Loja física,Casa,Organizador,1,72.85,29
+PED00151,2025-09-11,Nordeste,Marketplace,Acessórios,Mochila,1,204.36,95
+PED00152,2025-07-19,Sudeste,Loja física,Casa,Garrafa térmica,1,102.23,52
+PED00153,2025-01-04,Centro-Oeste,E-commerce,Escritório,Cadeira ergonômica,1,1014.99,650
+PED00154,2025-10-04,Centro-Oeste,Loja física,Escritório,Cadeira ergonômica,4,1010.01,650
+PED00155,2025-06-08,Norte,Marketplace,Tecnologia,Headset,2,201.61,110
+PED00156,2025-07-12,Nordeste,Marketplace,Casa,Luminária de mesa,1,148.19,72
+PED00157,2025-04-15,Sul,E-commerce,Casa,Luminária de mesa,3,148.77,72
+PED00158,2025-05-17,Norte,Marketplace,Acessórios,Hub USB-C,1,172.61,88
+PED00159,2025-07-07,Sudeste,Marketplace,Casa,Organizador,1,73.21,29
+PED00160,2025-07-24,Sudeste,E-commerce,Tecnologia,Teclado mecânico,2,260.35,155
+PED00161,2025-11-11,Nordeste,Loja física,Tecnologia,Headset,3,220.91,110
+PED00162,2025-02-08,Sul,Marketplace,Casa,Luminária de mesa,4,147.35,72
+PED00163,2025-03-18,Norte,Loja física,Escritório,Mesa compacta,1,657.3,390
+PED00164,2025-10-23,Sudeste,Loja física,Escritório,Luminária LED,1,96.67,38
+PED00165,2025-03-07,Nordeste,E-commerce,Acessórios,Suporte notebook,4,126.97,54
+PED00166,2025-01-22,Sudeste,Loja física,Escritório,Luminária LED,1,90.2,38
+PED00167,2025-02-09,Sul,Marketplace,Tecnologia,Mouse sem fio,3,81.68,42
+PED00168,2025-08-05,Centro-Oeste,Loja física,Casa,Garrafa térmica,1,106.15,52
+PED00169,2025-11-13,Nordeste,Loja física,Casa,Garrafa térmica,1,111.76,52
+PED00170,2025-06-19,Sul,Loja física,Acessórios,Hub USB-C,2,155.62,88
+PED00171,2025-04-17,Sudeste,E-commerce,Escritório,Mesa compacta,2,645.2,390
+PED00172,2025-04-03,Sudeste,E-commerce,Tecnologia,Mouse sem fio,5,90.44,42
+PED00173,2025-12-13,Centro-Oeste,Marketplace,Tecnologia,Headset,4,200.8,110
+PED00174,2025-09-10,Sul,Loja física,Escritório,Cadeira ergonômica,2,1053.55,650
+PED00175,2025-06-11,Sudeste,E-commerce,Escritório,Cadeira ergonômica,1,1004.47,650
+PED00176,2025-12-07,Norte,Marketplace,Tecnologia,Monitor 24 pol.,2,827.62,610
+PED00177,2025-11-18,Centro-Oeste,Marketplace,Tecnologia,Headset,1,197.92,110
+PED00178,2025-08-27,Norte,E-commerce,Tecnologia,Mouse sem fio,3,80.3,42
+PED00179,2025-04-17,Norte,Loja física,Casa,Luminária de mesa,3,148.19,72
+PED00180,2025-05-02,Sudeste,Loja física,Acessórios,Hub USB-C,3,169.77,88
+PED00181,2025-11-01,Sudeste,Loja física,Tecnologia,Mouse sem fio,2,85.21,42
+PED00182,2025-08-04,Nordeste,Loja física,Escritório,Luminária LED,3,89.92,38
+PED00183,2025-09-12,Norte,E-commerce,Casa,Organizador,5,72.02,29
+PED00184,2025-12-30,Nordeste,E-commerce,Escritório,Mesa compacta,2,606.14,390
+PED00185,2025-02-07,Sul,Loja física,Escritório,Mesa compacta,1,638.11,390
+PED00186,2025-12-10,Norte,E-commerce,Escritório,Cadeira ergonômica,3,946.12,650
+PED00187,2025-01-05,Sudeste,Marketplace,Acessórios,Mochila,5,180.75,95
+PED00188,2025-05-17,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,1,902.61,610
+PED00189,2025-10-14,Centro-Oeste,E-commerce,Tecnologia,Mouse sem fio,1,86.49,42
+PED00190,2025-11-13,Centro-Oeste,Loja física,Escritório,Luminária LED,4,95.43,38
+PED00191,2025-06-09,Centro-Oeste,Marketplace,Tecnologia,Monitor 24 pol.,4,884.52,610
+PED00192,2025-09-28,Norte,Marketplace,Tecnologia,Headset,1,224.57,110
+PED00193,2025-09-22,Nordeste,Marketplace,Acessórios,Suporte notebook,1,118.0,54
+PED00194,2025-08-15,Sul,E-commerce,Casa,Luminária de mesa,2,140.53,72
+PED00195,2025-05-19,Norte,Marketplace,Casa,Organizador,2,76.13,29
+PED00196,2025-12-14,Nordeste,E-commerce,Casa,Organizador,5,76.41,29
+PED00197,2025-02-27,Sudeste,Marketplace,Tecnologia,Mouse sem fio,1,88.08,42
+PED00198,2025-06-07,Nordeste,E-commerce,Acessórios,Suporte notebook,5,110.92,54
+PED00199,2025-12-14,Nordeste,Loja física,Casa,Organizador,2,77.21,29
+PED00200,2025-01-04,Sudeste,Loja física,Acessórios,Suporte notebook,2,119.6,54
+PED00201,2025-10-28,Sul,E-commerce,Casa,Garrafa térmica,1,103.38,52
+PED00202,2025-10-12,Sudeste,E-commerce,Tecnologia,Teclado mecânico,2,277.13,155
+PED00203,2025-03-28,Norte,Marketplace,Escritório,Luminária LED,2,99.87,38
+PED00204,2025-02-24,Nordeste,E-commerce,Acessórios,Mochila,1,188.93,95
+PED00205,2025-09-01,Sudeste,Marketplace,Casa,Luminária de mesa,4,145.37,72
+PED00206,2025-09-01,Norte,Marketplace,Casa,Luminária de mesa,2,145.43,72
+PED00207,2025-04-17,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,1,79.26,42
+PED00208,2025-12-18,Centro-Oeste,E-commerce,Casa,Luminária de mesa,1,140.91,72
+PED00209,2025-11-24,Sudeste,Marketplace,Escritório,Mesa compacta,1,583.97,390
+PED00210,2025-09-12,Sudeste,Loja física,Escritório,Mesa compacta,1,606.37,390
+PED00211,2025-07-28,Sudeste,Loja física,Escritório,Luminária LED,2,89.09,38
+PED00212,2025-02-10,Centro-Oeste,E-commerce,Casa,Organizador,1,74.2,29
+PED00213,2025-05-06,Sul,Marketplace,Tecnologia,Teclado mecânico,3,266.72,155
+PED00214,2025-11-29,Nordeste,Loja física,Casa,Garrafa térmica,1,113.73,52
+PED00215,2025-05-01,Sul,Marketplace,Escritório,Luminária LED,1,88.31,38
+PED00216,2025-05-26,Centro-Oeste,Loja física,Escritório,Luminária LED,4,90.42,38
+PED00217,2025-07-26,Norte,Marketplace,Escritório,Cadeira ergonômica,2,948.04,650
+PED00218,2025-10-29,Centro-Oeste,Loja física,Casa,Garrafa térmica,2,107.45,52
+PED00219,2025-08-12,Nordeste,Loja física,Escritório,Mesa compacta,1,598.49,390
+PED00220,2025-02-19,Norte,E-commerce,Acessórios,Mochila,1,177.24,95
+PED00221,2025-04-05,Nordeste,Loja física,Casa,Garrafa térmica,2,102.25,52
+PED00222,2025-12-02,Centro-Oeste,E-commerce,Acessórios,Mochila,1,193.19,95
+PED00223,2025-02-21,Sudeste,E-commerce,Acessórios,Hub USB-C,2,160.54,88
+PED00224,2025-03-16,Sudeste,E-commerce,Acessórios,Hub USB-C,2,172.8,88
+PED00225,2025-09-25,Sul,Loja física,Acessórios,Mochila,4,195.45,95
+PED00226,2025-04-24,Centro-Oeste,Loja física,Escritório,Mesa compacta,1,620.49,390
+PED00227,2025-03-07,Sudeste,Marketplace,Tecnologia,Teclado mecânico,2,286.73,155
+PED00228,2025-12-23,Sudeste,Loja física,Casa,Garrafa térmica,3,115.85,52
+PED00229,2025-04-09,Norte,Marketplace,Acessórios,Suporte notebook,1,112.53,54
+PED00230,2025-07-17,Sul,Loja física,Casa,Organizador,1,79.42,29
+PED00231,2025-10-20,Nordeste,E-commerce,Escritório,Luminária LED,1,102.4,38
+PED00232,2025-08-11,Sudeste,E-commerce,Tecnologia,Teclado mecânico,1,300.58,155
+PED00233,2025-01-02,Centro-Oeste,Loja física,Casa,Garrafa térmica,2,109.46,52
+PED00234,2025-01-22,Centro-Oeste,Marketplace,Acessórios,Suporte notebook,1,118.93,54
+PED00235,2025-01-16,Sudeste,Marketplace,Casa,Organizador,1,73.43,29
+PED00236,2025-01-24,Sudeste,Marketplace,Casa,Luminária de mesa,1,144.67,72
+PED00237,2025-10-29,Sul,Loja física,Escritório,Luminária LED,4,98.78,38
+PED00238,2025-06-23,Nordeste,Marketplace,Acessórios,Mochila,1,200.41,95
+PED00239,2025-10-07,Nordeste,Marketplace,Acessórios,Mochila,2,189.55,95
+PED00240,2025-08-08,Nordeste,Marketplace,Acessórios,Hub USB-C,1,172.16,88
+PED00241,2025-05-25,Sul,Marketplace,Escritório,Luminária LED,1,92.33,38
+PED00242,2025-10-17,Norte,Loja física,Tecnologia,Mouse sem fio,1,83.57,42
+PED00243,2025-09-21,Sudeste,Marketplace,Escritório,Luminária LED,1,99.98,38
+PED00244,2025-01-23,Sul,E-commerce,Casa,Organizador,2,75.49,29
+PED00245,2025-06-08,Norte,Marketplace,Tecnologia,Headset,1,219.92,110
+PED00246,2025-07-30,Sul,Loja física,Escritório,Luminária LED,3,90.89,38
+PED00247,2025-04-26,Nordeste,Loja física,Casa,Luminária de mesa,2,144.26,72
+PED00248,2025-05-01,Centro-Oeste,E-commerce,Escritório,Luminária LED,3,99.92,38
+PED00249,2025-07-01,Norte,Marketplace,Acessórios,Suporte notebook,2,116.53,54
+PED00250,2025-06-13,Nordeste,Marketplace,Acessórios,Suporte notebook,1,122.62,54
+PED00251,2025-09-04,Norte,Loja física,Casa,Organizador,1,73.57,29
+PED00252,2025-12-06,Nordeste,E-commerce,Tecnologia,Monitor 24 pol.,1,902.51,610
+PED00253,2025-01-09,Norte,Loja física,Acessórios,Hub USB-C,1,170.19,88
+PED00254,2025-04-14,Sudeste,Loja física,Acessórios,Hub USB-C,4,147.86,88
+PED00255,2025-06-21,Nordeste,Marketplace,Escritório,Mesa compacta,4,602.16,390
+PED00256,2025-06-05,Sudeste,Marketplace,Acessórios,Suporte notebook,1,123.83,54
+PED00257,2025-07-22,Sul,Marketplace,Escritório,Luminária LED,4,93.16,38
+PED00258,2025-10-19,Nordeste,Loja física,Escritório,Luminária LED,2,92.06,38
+PED00259,2025-02-12,Sul,E-commerce,Casa,Garrafa térmica,2,102.5,52
+PED00260,2025-03-05,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,4,893.21,610
+PED00261,2025-11-17,Centro-Oeste,Marketplace,Casa,Garrafa térmica,2,109.08,52
+PED00262,2025-04-03,Nordeste,Loja física,Acessórios,Suporte notebook,1,116.45,54
+PED00263,2025-05-05,Sudeste,Loja física,Escritório,Cadeira ergonômica,2,991.7,650
+PED00264,2025-05-21,Sul,Marketplace,Tecnologia,Teclado mecânico,1,266.91,155
+PED00265,2025-12-31,Sudeste,E-commerce,Casa,Organizador,3,78.98,29
+PED00266,2025-07-05,Centro-Oeste,Marketplace,Casa,Luminária de mesa,3,150.17,72
+PED00267,2025-05-21,Sul,Loja física,Tecnologia,Mouse sem fio,1,83.2,42
+PED00268,2025-12-29,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,3,89.15,42
+PED00269,2025-08-28,Norte,Loja física,Escritório,Luminária LED,1,93.62,38
+PED00270,2025-06-19,Centro-Oeste,Loja física,Tecnologia,Teclado mecânico,1,277.0,155
+PED00271,2025-02-10,Sudeste,Loja física,Acessórios,Suporte notebook,2,127.03,54
+PED00272,2025-02-11,Sudeste,Loja física,Tecnologia,Mouse sem fio,1,85.9,42
+PED00273,2025-05-23,Sudeste,E-commerce,Escritório,Mesa compacta,3,646.22,390
+PED00274,2025-08-07,Sul,Marketplace,Acessórios,Suporte notebook,1,128.12,54
+PED00275,2025-11-21,Nordeste,Loja física,Escritório,Cadeira ergonômica,2,1036.41,650
+PED00276,2025-11-09,Sudeste,Loja física,Casa,Organizador,1,69.21,29
+PED00277,2025-06-07,Norte,Marketplace,Acessórios,Suporte notebook,4,114.64,54
+PED00278,2025-04-18,Sudeste,E-commerce,Tecnologia,Mouse sem fio,1,81.48,42
+PED00279,2025-11-29,Nordeste,E-commerce,Tecnologia,Teclado mecânico,1,293.15,155
+PED00280,2025-11-22,Norte,Marketplace,Tecnologia,Teclado mecânico,2,290.98,155
+PED00281,2025-05-07,Sul,Loja física,Casa,Organizador,3,73.43,29
+PED00282,2025-06-24,Nordeste,Loja física,Acessórios,Mochila,4,183.28,95
+PED00283,2025-01-30,Sudeste,E-commerce,Casa,Luminária de mesa,1,155.47,72
+PED00284,2025-12-23,Norte,Marketplace,Acessórios,Mochila,3,187.95,95
+PED00285,2025-05-25,Nordeste,Loja física,Casa,Luminária de mesa,3,134.86,72
+PED00286,2025-04-08,Centro-Oeste,E-commerce,Acessórios,Mochila,1,200.95,95
+PED00287,2025-10-20,Sul,Marketplace,Acessórios,Suporte notebook,1,124.17,54
+PED00288,2025-12-05,Centro-Oeste,Loja física,Tecnologia,Teclado mecânico,1,259.83,155
+PED00289,2025-07-19,Sul,Marketplace,Casa,Luminária de mesa,4,153.54,72
+PED00290,2025-06-11,Sudeste,Marketplace,Escritório,Mesa compacta,1,588.95,390
+PED00291,2025-07-27,Norte,E-commerce,Escritório,Mesa compacta,3,589.58,390
+PED00292,2025-08-01,Norte,E-commerce,Tecnologia,Monitor 24 pol.,1,880.34,610
+PED00293,2025-08-25,Sul,E-commerce,Tecnologia,Mouse sem fio,2,85.46,42
+PED00294,2025-08-03,Centro-Oeste,E-commerce,Casa,Luminária de mesa,1,141.1,72
+PED00295,2025-11-28,Norte,Marketplace,Casa,Luminária de mesa,1,136.5,72
+PED00296,2025-08-15,Norte,Marketplace,Tecnologia,Teclado mecânico,4,269.07,155
+PED00297,2025-07-05,Norte,Loja física,Casa,Garrafa térmica,1,108.46,52
+PED00298,2025-10-25,Norte,E-commerce,Acessórios,Suporte notebook,1,125.19,54
+PED00299,2025-01-31,Norte,Marketplace,Tecnologia,Headset,2,225.0,110
+PED00300,2025-10-08,Sul,Loja física,Acessórios,Mochila,1,182.03,95
+PED00301,2025-02-28,Nordeste,Marketplace,Acessórios,Hub USB-C,2,156.18,88
+PED00302,2025-12-16,Nordeste,E-commerce,Casa,Organizador,2,72.29,29
+PED00303,2025-12-15,Sul,Loja física,Tecnologia,Headset,1,206.3,110
+PED00304,2025-04-17,Centro-Oeste,E-commerce,Escritório,Cadeira ergonômica,4,1053.79,650
+PED00305,2025-05-14,Nordeste,E-commerce,Escritório,Luminária LED,1,97.34,38
+PED00306,2025-03-04,Nordeste,Loja física,Tecnologia,Teclado mecânico,2,272.75,155
+PED00307,2025-07-22,Norte,Loja física,Tecnologia,Teclado mecânico,1,279.47,155
+PED00308,2025-11-18,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,2,833.16,610
+PED00309,2025-03-30,Nordeste,Loja física,Acessórios,Suporte notebook,2,115.02,54
+PED00310,2025-05-09,Sul,Loja física,Tecnologia,Mouse sem fio,2,85.43,42
+PED00311,2025-03-14,Nordeste,Loja física,Casa,Organizador,1,75.73,29
+PED00312,2025-11-05,Norte,Loja física,Tecnologia,Headset,3,195.87,110
+PED00313,2025-01-06,Sul,Marketplace,Casa,Organizador,4,69.04,29
+PED00314,2025-06-07,Sul,E-commerce,Acessórios,Hub USB-C,1,147.42,88
+PED00315,2025-05-31,Nordeste,E-commerce,Tecnologia,Monitor 24 pol.,2,841.18,610
+PED00316,2025-11-15,Norte,Marketplace,Casa,Luminária de mesa,2,135.81,72
+PED00317,2025-12-21,Centro-Oeste,Loja física,Escritório,Luminária LED,1,101.33,38
+PED00318,2025-01-03,Sul,Loja física,Casa,Luminária de mesa,2,135.16,72
+PED00319,2025-03-07,Nordeste,Marketplace,Escritório,Luminária LED,1,101.09,38
+PED00320,2025-10-07,Nordeste,Loja física,Tecnologia,Mouse sem fio,1,86.47,42
+PED00321,2025-08-09,Sul,Loja física,Tecnologia,Headset,1,216.22,110
+PED00322,2025-04-18,Nordeste,Loja física,Escritório,Luminária LED,2,100.55,38
+PED00323,2025-08-28,Sudeste,Loja física,Acessórios,Suporte notebook,1,127.71,54
+PED00324,2025-11-24,Sudeste,Loja física,Casa,Organizador,3,70.83,29
+PED00325,2025-04-19,Sudeste,E-commerce,Casa,Garrafa térmica,1,118.73,52
+PED00326,2025-07-26,Nordeste,Loja física,Acessórios,Mochila,2,196.02,95
+PED00327,2025-01-24,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,1,834.42,610
+PED00328,2025-09-19,Sul,Marketplace,Acessórios,Hub USB-C,3,169.23,88
+PED00329,2025-05-31,Sudeste,Loja física,Tecnologia,Monitor 24 pol.,2,953.86,610
+PED00330,2025-12-09,Norte,E-commerce,Casa,Garrafa térmica,4,118.02,52
+PED00331,2025-01-07,Nordeste,E-commerce,Acessórios,Hub USB-C,2,157.1,88
+PED00332,2025-08-01,Nordeste,E-commerce,Acessórios,Suporte notebook,1,128.23,54
+PED00333,2025-06-18,Norte,E-commerce,Escritório,Cadeira ergonômica,2,907.37,650
+PED00334,2025-05-20,Nordeste,E-commerce,Casa,Organizador,3,73.82,29
+PED00335,2025-01-14,Centro-Oeste,E-commerce,Tecnologia,Mouse sem fio,1,91.01,42
+PED00336,2025-11-03,Centro-Oeste,Loja física,Tecnologia,Teclado mecânico,1,290.82,155
+PED00337,2025-07-19,Sul,Loja física,Tecnologia,Headset,2,222.34,110
+PED00338,2025-05-26,Sul,Loja física,Acessórios,Hub USB-C,3,163.07,88
+PED00339,2025-05-29,Sul,Marketplace,Casa,Organizador,2,76.95,29
+PED00340,2025-04-24,Sul,Loja física,Acessórios,Hub USB-C,1,159.81,88
+PED00341,2025-01-27,Nordeste,Loja física,Tecnologia,Teclado mecânico,5,278.13,155
+PED00342,2025-01-02,Nordeste,Loja física,Acessórios,Mochila,2,195.36,95
+PED00343,2025-10-22,Sul,Loja física,Escritório,Cadeira ergonômica,1,1012.28,650
+PED00344,2025-11-04,Sul,Marketplace,Escritório,Luminária LED,1,90.08,38
+PED00345,2025-02-20,Nordeste,E-commerce,Escritório,Mesa compacta,1,667.44,390
+PED00346,2025-05-06,Norte,E-commerce,Tecnologia,Headset,1,203.34,110
+PED00347,2025-12-02,Norte,Loja física,Escritório,Luminária LED,4,97.21,38
+PED00348,2025-07-08,Nordeste,E-commerce,Escritório,Mesa compacta,2,614.2,390
+PED00349,2025-05-04,Sudeste,E-commerce,Escritório,Luminária LED,2,94.92,38
+PED00350,2025-11-25,Nordeste,Marketplace,Tecnologia,Mouse sem fio,1,78.29,42
+PED00351,2025-09-14,Centro-Oeste,Loja física,Casa,Luminária de mesa,3,145.4,72
+PED00352,2025-12-25,Centro-Oeste,Loja física,Casa,Garrafa térmica,2,102.98,52
+PED00353,2025-12-13,Norte,Marketplace,Tecnologia,Teclado mecânico,3,295.69,155
+PED00354,2025-09-15,Nordeste,E-commerce,Escritório,Luminária LED,3,90.55,38
+PED00355,2025-12-24,Sul,Loja física,Escritório,Luminária LED,2,87.62,38
+PED00356,2025-04-07,Sul,Loja física,Tecnologia,Monitor 24 pol.,2,935.69,610
+PED00357,2025-11-07,Centro-Oeste,Marketplace,Acessórios,Suporte notebook,4,126.78,54
+PED00358,2025-10-17,Nordeste,Marketplace,Tecnologia,Mouse sem fio,1,78.29,42
+PED00359,2025-11-28,Nordeste,Marketplace,Acessórios,Suporte notebook,3,127.61,54
+PED00360,2025-12-05,Norte,Loja física,Escritório,Luminária LED,2,90.24,38
+PED00361,2025-07-24,Sudeste,E-commerce,Acessórios,Suporte notebook,1,110.99,54
+PED00362,2025-09-11,Norte,Loja física,Tecnologia,Headset,2,224.17,110
+PED00363,2025-02-23,Sul,Marketplace,Tecnologia,Monitor 24 pol.,1,829.75,610
+PED00364,2025-11-29,Centro-Oeste,Marketplace,Acessórios,Hub USB-C,3,156.57,88
+PED00365,2025-06-09,Nordeste,E-commerce,Tecnologia,Mouse sem fio,2,79.1,42
+PED00366,2025-07-28,Sul,Loja física,Escritório,Luminária LED,1,97.75,38
+PED00367,2025-03-18,Sul,Loja física,Tecnologia,Teclado mecânico,2,289.68,155
+PED00368,2025-03-12,Centro-Oeste,E-commerce,Acessórios,Mochila,2,200.25,95
+PED00369,2025-07-27,Sudeste,Marketplace,Acessórios,Hub USB-C,3,164.11,88
+PED00370,2025-04-12,Norte,E-commerce,Casa,Luminária de mesa,2,135.66,72
+PED00371,2025-10-25,Sudeste,Marketplace,Casa,Luminária de mesa,1,143.17,72
+PED00372,2025-07-04,Sudeste,Marketplace,Casa,Luminária de mesa,3,135.69,72
+PED00373,2025-05-05,Norte,Marketplace,Casa,Garrafa térmica,1,116.6,52
+PED00374,2025-06-26,Norte,E-commerce,Escritório,Cadeira ergonômica,1,955.33,650
+PED00375,2025-03-09,Centro-Oeste,E-commerce,Casa,Garrafa térmica,2,118.15,52
+PED00376,2025-04-13,Nordeste,E-commerce,Escritório,Mesa compacta,1,644.42,390
+PED00377,2025-04-05,Nordeste,Loja física,Acessórios,Mochila,2,203.43,95
+PED00378,2025-07-07,Nordeste,Marketplace,Escritório,Luminária LED,3,98.13,38
+PED00379,2025-12-11,Norte,E-commerce,Escritório,Cadeira ergonômica,3,973.96,650
+PED00380,2025-06-14,Nordeste,E-commerce,Tecnologia,Headset,4,199.31,110
+PED00381,2025-04-14,Nordeste,E-commerce,Tecnologia,Headset,2,220.81,110
+PED00382,2025-09-14,Nordeste,Marketplace,Escritório,Cadeira ergonômica,2,945.28,650
+PED00383,2025-08-17,Norte,Loja física,Escritório,Cadeira ergonômica,2,930.99,650
+PED00384,2025-07-04,Sudeste,Marketplace,Casa,Garrafa térmica,5,101.92,52
+PED00385,2025-09-10,Centro-Oeste,E-commerce,Tecnologia,Teclado mecânico,2,267.62,155
+PED00386,2025-09-03,Norte,Marketplace,Tecnologia,Mouse sem fio,1,80.2,42
+PED00387,2025-09-27,Nordeste,Loja física,Casa,Luminária de mesa,1,140.89,72
+PED00388,2025-12-09,Sudeste,Loja física,Escritório,Mesa compacta,2,593.69,390
+PED00389,2025-12-25,Sudeste,Loja física,Tecnologia,Teclado mecânico,2,260.19,155
+PED00390,2025-11-12,Nordeste,Loja física,Acessórios,Mochila,1,188.08,95
+PED00391,2025-01-18,Sudeste,Marketplace,Casa,Luminária de mesa,1,155.2,72
+PED00392,2025-02-15,Sul,Marketplace,Tecnologia,Mouse sem fio,1,84.78,42
+PED00393,2025-10-30,Nordeste,Loja física,Casa,Organizador,1,80.4,29
+PED00394,2025-12-12,Norte,Loja física,Escritório,Luminária LED,3,88.35,38
+PED00395,2025-07-24,Norte,Marketplace,Acessórios,Mochila,2,194.89,95
+PED00396,2025-03-05,Sudeste,E-commerce,Escritório,Luminária LED,1,95.46,38
+PED00397,2025-10-25,Centro-Oeste,Marketplace,Casa,Luminária de mesa,2,141.12,72
+PED00398,2025-05-11,Norte,E-commerce,Escritório,Mesa compacta,2,583.6,390
+PED00399,2025-07-25,Sul,Marketplace,Acessórios,Suporte notebook,3,115.51,54
+PED00400,2025-01-06,Centro-Oeste,Loja física,Acessórios,Hub USB-C,2,158.72,88
+PED00401,2025-10-10,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,1,872.88,610
+PED00402,2025-07-01,Nordeste,E-commerce,Escritório,Luminária LED,2,93.16,38
+PED00403,2025-12-10,Centro-Oeste,E-commerce,Escritório,Mesa compacta,1,570.43,390
+PED00404,2025-08-14,Centro-Oeste,E-commerce,Tecnologia,Headset,1,210.36,110
+PED00405,2025-07-16,Sudeste,E-commerce,Tecnologia,Monitor 24 pol.,2,867.75,610
+PED00406,2025-06-01,Norte,Marketplace,Acessórios,Mochila,1,202.21,95
+PED00407,2025-12-24,Sul,Loja física,Tecnologia,Headset,1,197.9,110
+PED00408,2025-07-14,Nordeste,E-commerce,Acessórios,Suporte notebook,4,122.61,54
+PED00409,2025-12-06,Sul,E-commerce,Casa,Garrafa térmica,1,111.65,52
+PED00410,2025-04-08,Sul,Loja física,Casa,Luminária de mesa,3,145.71,72
+PED00411,2025-08-15,Centro-Oeste,E-commerce,Tecnologia,Headset,1,224.19,110
+PED00412,2025-10-14,Norte,Marketplace,Escritório,Mesa compacta,2,596.85,390
+PED00413,2025-03-15,Nordeste,E-commerce,Escritório,Luminária LED,2,92.68,38
+PED00414,2025-10-02,Centro-Oeste,E-commerce,Tecnologia,Mouse sem fio,1,79.11,42
+PED00415,2025-11-29,Sudeste,Loja física,Casa,Organizador,2,80.27,29
+PED00416,2025-06-04,Centro-Oeste,E-commerce,Acessórios,Mochila,1,181.74,95
+PED00417,2025-03-06,Sul,E-commerce,Casa,Garrafa térmica,3,103.82,52
+PED00418,2025-02-23,Nordeste,Loja física,Escritório,Cadeira ergonômica,3,934.38,650
+PED00419,2025-11-09,Sul,E-commerce,Casa,Luminária de mesa,2,143.08,72
+PED00420,2025-02-07,Norte,E-commerce,Casa,Organizador,1,72.0,29
+PED00421,2025-11-20,Sul,Marketplace,Acessórios,Mochila,1,184.51,95
+PED00422,2025-04-28,Nordeste,Marketplace,Escritório,Cadeira ergonômica,1,967.5,650
+PED00423,2025-03-20,Centro-Oeste,Loja física,Acessórios,Hub USB-C,1,147.83,88
+PED00424,2025-05-13,Sul,Loja física,Tecnologia,Teclado mecânico,2,296.78,155
+PED00425,2025-08-08,Norte,Marketplace,Casa,Organizador,2,72.26,29
+PED00426,2025-06-30,Sudeste,Marketplace,Acessórios,Suporte notebook,3,119.9,54
+PED00427,2025-07-20,Nordeste,E-commerce,Escritório,Luminária LED,4,91.48,38
+PED00428,2025-02-06,Sudeste,Loja física,Tecnologia,Headset,3,196.76,110
+PED00429,2025-02-16,Centro-Oeste,E-commerce,Escritório,Mesa compacta,1,602.02,390
+PED00430,2025-07-13,Sul,E-commerce,Casa,Organizador,2,72.62,29
+PED00431,2025-10-09,Sul,Marketplace,Tecnologia,Mouse sem fio,4,80.41,42
+PED00432,2025-08-26,Centro-Oeste,Loja física,Acessórios,Hub USB-C,1,159.61,88
+PED00433,2025-12-13,Nordeste,Marketplace,Acessórios,Hub USB-C,2,156.45,88
+PED00434,2025-07-10,Sul,Marketplace,Escritório,Luminária LED,1,92.41,38
+PED00435,2025-10-04,Norte,Loja física,Escritório,Mesa compacta,1,600.84,390
+PED00436,2025-01-26,Nordeste,E-commerce,Casa,Garrafa térmica,4,112.59,52
+PED00437,2025-10-17,Sul,Loja física,Escritório,Cadeira ergonômica,5,1020.6,650
+PED00438,2025-05-25,Norte,Marketplace,Casa,Garrafa térmica,1,109.97,52
+PED00439,2025-08-18,Nordeste,Marketplace,Acessórios,Mochila,4,178.36,95
+PED00440,2025-10-18,Norte,Marketplace,Acessórios,Hub USB-C,1,149.88,88
+PED00441,2025-02-05,Centro-Oeste,Loja física,Casa,Organizador,1,71.57,29
+PED00442,2025-11-15,Norte,Marketplace,Casa,Garrafa térmica,2,112.37,52
+PED00443,2025-12-20,Centro-Oeste,Marketplace,Tecnologia,Monitor 24 pol.,2,891.12,610
+PED00444,2025-12-26,Sudeste,Loja física,Escritório,Luminária LED,1,96.97,38
+PED00445,2025-01-31,Sudeste,E-commerce,Casa,Garrafa térmica,1,118.39,52
+PED00446,2025-02-03,Sul,E-commerce,Tecnologia,Teclado mecânico,1,272.5,155
+PED00447,2025-05-02,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,1,168.39,88
+PED00448,2025-11-17,Norte,Marketplace,Acessórios,Suporte notebook,2,110.55,54
+PED00449,2025-07-02,Centro-Oeste,Loja física,Acessórios,Mochila,1,194.04,95
+PED00450,2025-02-06,Nordeste,Marketplace,Tecnologia,Monitor 24 pol.,1,857.78,610
+PED00451,2025-03-09,Sul,E-commerce,Escritório,Luminária LED,2,100.02,38
+PED00452,2025-10-07,Norte,Loja física,Casa,Organizador,2,78.91,29
+PED00453,2025-04-16,Norte,Loja física,Escritório,Cadeira ergonômica,4,1002.63,650
+PED00454,2025-01-10,Sul,Marketplace,Casa,Luminária de mesa,4,142.31,72
+PED00455,2025-12-30,Sudeste,Loja física,Acessórios,Mochila,1,178.75,95
+PED00456,2025-01-22,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,1,156.48,88
+PED00457,2025-04-07,Nordeste,Loja física,Acessórios,Hub USB-C,2,152.13,88
+PED00458,2025-12-16,Norte,Marketplace,Escritório,Mesa compacta,1,651.37,390
+PED00459,2025-03-24,Centro-Oeste,E-commerce,Escritório,Mesa compacta,5,593.45,390
+PED00460,2025-10-27,Sudeste,Loja física,Casa,Luminária de mesa,5,144.27,72
+PED00461,2025-12-03,Norte,Loja física,Tecnologia,Teclado mecânico,5,301.12,155
+PED00462,2025-09-21,Norte,Loja física,Escritório,Luminária LED,1,88.54,38
+PED00463,2025-06-05,Nordeste,Marketplace,Escritório,Cadeira ergonômica,1,923.84,650
+PED00464,2025-12-28,Sudeste,Loja física,Escritório,Luminária LED,2,95.12,38
+PED00465,2025-03-30,Sul,Loja física,Acessórios,Suporte notebook,4,124.34,54
+PED00466,2025-05-21,Sudeste,E-commerce,Escritório,Cadeira ergonômica,1,904.58,650
+PED00467,2025-02-12,Sul,Loja física,Acessórios,Mochila,3,195.32,95
+PED00468,2025-06-04,Sul,Loja física,Tecnologia,Headset,1,198.07,110
+PED00469,2025-06-04,Nordeste,Loja física,Acessórios,Mochila,4,189.52,95
+PED00470,2025-08-25,Nordeste,E-commerce,Acessórios,Suporte notebook,3,116.99,54
+PED00471,2025-02-15,Nordeste,E-commerce,Escritório,Cadeira ergonômica,1,983.8,650
+PED00472,2025-03-30,Norte,E-commerce,Casa,Luminária de mesa,1,140.87,72
+PED00473,2025-07-23,Sul,Loja física,Escritório,Luminária LED,2,90.09,38
+PED00474,2025-04-18,Sudeste,Marketplace,Casa,Garrafa térmica,2,113.24,52
+PED00475,2025-06-19,Norte,Loja física,Tecnologia,Headset,2,204.14,110
+PED00476,2025-08-20,Sudeste,Marketplace,Casa,Organizador,3,78.63,29
+PED00477,2025-06-19,Sudeste,Loja física,Tecnologia,Teclado mecânico,1,298.63,155
+PED00478,2025-01-10,Nordeste,Marketplace,Escritório,Mesa compacta,4,624.4,390
+PED00479,2025-05-11,Sul,E-commerce,Escritório,Mesa compacta,1,648.66,390
+PED00480,2025-05-08,Norte,Marketplace,Acessórios,Mochila,1,195.3,95
+PED00481,2025-01-26,Nordeste,E-commerce,Casa,Organizador,3,76.63,29
+PED00482,2025-07-17,Centro-Oeste,E-commerce,Tecnologia,Headset,1,205.13,110
+PED00483,2025-02-15,Sudeste,Loja física,Acessórios,Suporte notebook,2,121.5,54
+PED00484,2025-04-26,Nordeste,Loja física,Tecnologia,Monitor 24 pol.,1,923.41,610
+PED00485,2025-08-05,Sudeste,E-commerce,Tecnologia,Monitor 24 pol.,4,842.21,610
+PED00486,2025-05-18,Sul,Marketplace,Escritório,Luminária LED,2,95.75,38
+PED00487,2025-05-08,Sudeste,Marketplace,Casa,Organizador,3,74.98,29
+PED00488,2025-09-09,Nordeste,E-commerce,Casa,Garrafa térmica,1,101.48,52
+PED00489,2025-06-03,Sudeste,E-commerce,Escritório,Luminária LED,1,94.9,38
+PED00490,2025-04-14,Sudeste,E-commerce,Escritório,Luminária LED,4,91.12,38
+PED00491,2025-03-05,Centro-Oeste,Marketplace,Acessórios,Hub USB-C,1,166.07,88
+PED00492,2025-06-09,Centro-Oeste,Loja física,Escritório,Mesa compacta,2,627.79,390
+PED00493,2025-08-22,Norte,Loja física,Tecnologia,Teclado mecânico,1,289.43,155
+PED00494,2025-06-21,Sul,Loja física,Escritório,Mesa compacta,1,589.97,390
+PED00495,2025-11-27,Sudeste,Marketplace,Casa,Organizador,3,74.56,29
+PED00496,2025-12-22,Centro-Oeste,E-commerce,Escritório,Mesa compacta,1,646.01,390
+PED00497,2025-02-07,Norte,Marketplace,Escritório,Cadeira ergonômica,3,1010.65,650
+PED00498,2025-08-29,Sudeste,E-commerce,Casa,Garrafa térmica,4,110.5,52
+PED00499,2025-03-19,Sul,Loja física,Casa,Luminária de mesa,3,155.02,72
+PED00500,2025-07-12,Nordeste,Loja física,Casa,Organizador,3,75.34,29
+PED00501,2025-12-17,Norte,E-commerce,Casa,Luminária de mesa,1,143.59,72
+PED00502,2025-12-06,Centro-Oeste,E-commerce,Casa,Organizador,1,70.13,29
+PED00503,2025-08-05,Sul,Loja física,Tecnologia,Mouse sem fio,1,79.21,42
+PED00504,2025-10-29,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,2,149.63,88
+PED00505,2025-12-02,Sul,E-commerce,Acessórios,Hub USB-C,1,172.76,88
+PED00506,2025-01-16,Sudeste,Loja física,Tecnologia,Teclado mecânico,1,293.13,155
+PED00507,2025-08-08,Nordeste,Marketplace,Casa,Organizador,1,73.99,29
+PED00508,2025-08-14,Norte,E-commerce,Tecnologia,Teclado mecânico,3,269.65,155
+PED00509,2025-02-02,Sul,E-commerce,Tecnologia,Mouse sem fio,2,80.03,42
+PED00510,2025-03-15,Sul,Marketplace,Escritório,Luminária LED,2,93.12,38
+PED00511,2025-01-24,Sul,E-commerce,Escritório,Luminária LED,1,97.71,38
+PED00512,2025-11-01,Nordeste,Loja física,Escritório,Mesa compacta,1,610.89,390
+PED00513,2025-02-26,Centro-Oeste,E-commerce,Tecnologia,Headset,1,203.01,110
+PED00514,2025-12-25,Centro-Oeste,Loja física,Tecnologia,Mouse sem fio,1,79.58,42
+PED00515,2025-09-13,Norte,Marketplace,Escritório,Mesa compacta,1,631.07,390
+PED00516,2025-07-27,Norte,Loja física,Tecnologia,Mouse sem fio,5,85.01,42
+PED00517,2025-09-17,Sul,E-commerce,Tecnologia,Mouse sem fio,1,80.03,42
+PED00518,2025-06-08,Sudeste,Loja física,Acessórios,Hub USB-C,5,169.94,88
+PED00519,2025-01-20,Nordeste,E-commerce,Casa,Garrafa térmica,1,107.54,52
+PED00520,2025-06-21,Sudeste,Marketplace,Escritório,Cadeira ergonômica,2,911.06,650
+PED00521,2025-08-30,Sul,Loja física,Acessórios,Hub USB-C,5,165.74,88
+PED00522,2025-08-31,Sudeste,E-commerce,Casa,Organizador,4,74.46,29
+PED00523,2025-11-13,Norte,Loja física,Tecnologia,Headset,2,210.4,110
+PED00524,2025-11-01,Nordeste,E-commerce,Tecnologia,Teclado mecânico,1,286.87,155
+PED00525,2025-08-30,Nordeste,Loja física,Casa,Organizador,1,80.46,29
+PED00526,2025-04-03,Sul,Marketplace,Casa,Organizador,3,70.54,29
+PED00527,2025-08-30,Sul,Loja física,Escritório,Luminária LED,2,101.5,38
+PED00528,2025-05-09,Nordeste,Loja física,Casa,Organizador,1,70.23,29
+PED00529,2025-03-20,Centro-Oeste,Loja física,Escritório,Luminária LED,2,90.14,38
+PED00530,2025-09-30,Norte,E-commerce,Tecnologia,Monitor 24 pol.,1,834.05,610
+PED00531,2025-10-19,Nordeste,E-commerce,Escritório,Mesa compacta,1,649.22,390
+PED00532,2025-11-27,Nordeste,E-commerce,Acessórios,Hub USB-C,1,162.09,88
+PED00533,2025-03-31,Sul,E-commerce,Acessórios,Suporte notebook,1,123.51,54
+PED00534,2025-04-11,Centro-Oeste,E-commerce,Escritório,Cadeira ergonômica,1,976.14,650
+PED00535,2025-03-11,Sudeste,E-commerce,Escritório,Cadeira ergonômica,1,980.45,650
+PED00536,2025-08-06,Norte,E-commerce,Escritório,Cadeira ergonômica,2,958.8,650
+PED00537,2025-02-04,Nordeste,E-commerce,Casa,Organizador,1,79.9,29
+PED00538,2025-08-05,Norte,Marketplace,Escritório,Luminária LED,2,94.73,38
+PED00539,2025-11-13,Sudeste,Marketplace,Tecnologia,Headset,2,205.68,110
+PED00540,2025-02-21,Sudeste,E-commerce,Acessórios,Mochila,1,175.73,95
+PED00541,2025-10-11,Norte,E-commerce,Casa,Organizador,1,77.92,29
+PED00542,2025-09-30,Sudeste,Loja física,Acessórios,Mochila,3,181.93,95
+PED00543,2025-07-26,Sudeste,Loja física,Tecnologia,Headset,1,217.87,110
+PED00544,2025-03-21,Sul,Loja física,Escritório,Luminária LED,1,96.79,38
+PED00545,2025-11-12,Centro-Oeste,E-commerce,Escritório,Cadeira ergonômica,1,902.68,650
+PED00546,2025-05-21,Sudeste,Marketplace,Casa,Luminária de mesa,1,137.11,72
+PED00547,2025-02-26,Norte,E-commerce,Tecnologia,Teclado mecânico,1,284.78,155
+PED00548,2025-02-28,Sudeste,E-commerce,Acessórios,Suporte notebook,1,114.53,54
+PED00549,2025-04-19,Norte,E-commerce,Escritório,Luminária LED,2,98.14,38
+PED00550,2025-08-07,Sul,E-commerce,Casa,Organizador,4,72.37,29
+PED00551,2025-01-29,Centro-Oeste,E-commerce,Casa,Garrafa térmica,3,108.63,52
+PED00552,2025-12-16,Sudeste,Marketplace,Escritório,Cadeira ergonômica,2,933.77,650
+PED00553,2025-06-08,Sudeste,Marketplace,Acessórios,Mochila,3,178.86,95
+PED00554,2025-11-17,Sudeste,E-commerce,Tecnologia,Mouse sem fio,1,83.43,42
+PED00555,2025-09-08,Centro-Oeste,Marketplace,Casa,Luminária de mesa,1,153.55,72
+PED00556,2025-11-06,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,1,151.39,88
+PED00557,2025-02-13,Nordeste,Loja física,Escritório,Cadeira ergonômica,4,1056.75,650
+PED00558,2025-03-10,Centro-Oeste,E-commerce,Tecnologia,Teclado mecânico,1,302.2,155
+PED00559,2025-08-08,Nordeste,Marketplace,Casa,Garrafa térmica,2,104.71,52
+PED00560,2025-01-22,Centro-Oeste,E-commerce,Tecnologia,Monitor 24 pol.,1,837.45,610
+PED00561,2025-03-16,Centro-Oeste,E-commerce,Tecnologia,Mouse sem fio,2,89.47,42
+PED00562,2025-04-10,Sul,Loja física,Tecnologia,Mouse sem fio,1,81.6,42
+PED00563,2025-10-14,Centro-Oeste,Loja física,Acessórios,Suporte notebook,2,114.46,54
+PED00564,2025-10-06,Sudeste,Marketplace,Tecnologia,Mouse sem fio,2,80.0,42
+PED00565,2025-01-19,Nordeste,Marketplace,Casa,Garrafa térmica,1,115.01,52
+PED00566,2025-07-02,Sudeste,Loja física,Escritório,Luminária LED,2,90.75,38
+PED00567,2025-06-23,Sudeste,Marketplace,Acessórios,Suporte notebook,1,115.54,54
+PED00568,2025-03-10,Sul,Marketplace,Casa,Garrafa térmica,3,117.4,52
+PED00569,2025-08-22,Sudeste,Marketplace,Acessórios,Suporte notebook,3,127.36,54
+PED00570,2025-07-27,Centro-Oeste,Loja física,Escritório,Luminária LED,3,90.25,38
+PED00571,2025-08-31,Sul,E-commerce,Casa,Organizador,2,78.06,29
+PED00572,2025-07-12,Nordeste,Marketplace,Acessórios,Suporte notebook,1,112.27,54
+PED00573,2025-03-13,Norte,E-commerce,Casa,Organizador,4,74.52,29
+PED00574,2025-08-26,Sul,Loja física,Casa,Luminária de mesa,2,137.58,72
+PED00575,2025-02-05,Nordeste,Loja física,Tecnologia,Headset,1,205.92,110
+PED00576,2025-04-13,Norte,E-commerce,Escritório,Cadeira ergonômica,3,1037.43,650
+PED00577,2025-04-11,Nordeste,E-commerce,Acessórios,Suporte notebook,1,121.59,54
+PED00578,2025-12-17,Centro-Oeste,Marketplace,Acessórios,Hub USB-C,1,154.38,88
+PED00579,2025-12-16,Norte,Loja física,Tecnologia,Teclado mecânico,1,275.71,155
+PED00580,2025-09-13,Centro-Oeste,Loja física,Escritório,Mesa compacta,2,642.48,390
+PED00581,2025-12-12,Sudeste,Loja física,Casa,Garrafa térmica,2,104.7,52
+PED00582,2025-08-26,Sudeste,Loja física,Casa,Garrafa térmica,5,112.42,52
+PED00583,2025-04-27,Norte,Loja física,Escritório,Cadeira ergonômica,2,932.14,650
+PED00584,2025-02-19,Sul,Loja física,Casa,Luminária de mesa,1,133.88,72
+PED00585,2025-08-16,Nordeste,Loja física,Escritório,Cadeira ergonômica,3,980.06,650
+PED00586,2025-03-28,Norte,Loja física,Tecnologia,Headset,3,207.32,110
+PED00587,2025-01-10,Nordeste,E-commerce,Casa,Luminária de mesa,3,139.4,72
+PED00588,2025-07-03,Nordeste,Loja física,Casa,Garrafa térmica,1,104.4,52
+PED00589,2025-12-12,Nordeste,Marketplace,Acessórios,Hub USB-C,1,170.53,88
+PED00590,2025-05-18,Centro-Oeste,E-commerce,Casa,Luminária de mesa,1,134.51,72
+PED00591,2025-01-28,Sul,Marketplace,Tecnologia,Headset,3,220.32,110
+PED00592,2025-09-21,Sul,Marketplace,Escritório,Luminária LED,1,90.2,38
+PED00593,2025-09-02,Sul,Marketplace,Casa,Luminária de mesa,2,136.73,72
+PED00594,2025-12-06,Centro-Oeste,Loja física,Acessórios,Suporte notebook,2,112.58,54
+PED00595,2025-05-21,Sul,Marketplace,Casa,Organizador,4,78.57,29
+PED00596,2025-04-06,Norte,Marketplace,Casa,Garrafa térmica,3,117.57,52
+PED00597,2025-10-21,Nordeste,Loja física,Casa,Garrafa térmica,1,101.35,52
+PED00598,2025-04-19,Centro-Oeste,E-commerce,Acessórios,Hub USB-C,2,150.77,88
+PED00599,2025-11-30,Sul,Marketplace,Casa,Garrafa térmica,2,108.11,52
+PED00600,2025-10-25,Centro-Oeste,E-commerce,Casa,Organizador,1,77.35,29
