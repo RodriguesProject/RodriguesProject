@@ -1,0 +1,44 @@
+-- Crie uma medida por vez na tabela Vendas.
+Receita Bruta =
+SUMX (
+    Vendas,
+    Vendas[quantidade] * Vendas[preco_unitario]
+)
+
+Custo Total =
+SUMX (
+    Vendas,
+    Vendas[quantidade] * Vendas[custo_unitario]
+)
+
+Margem Bruta =
+[Receita Bruta] - [Custo Total]
+
+Margem % =
+DIVIDE ( [Margem Bruta], [Receita Bruta] )
+
+Pedidos =
+DISTINCTCOUNT ( Vendas[pedido_id] )
+
+Unidades Vendidas =
+SUM ( Vendas[quantidade] )
+
+Ticket Médio =
+DIVIDE ( [Receita Bruta], [Pedidos] )
+
+Receita Mês Anterior =
+CALCULATE (
+    [Receita Bruta],
+    DATEADD ( Calendario[Date], -1, MONTH )
+)
+
+Variação Mensal % =
+DIVIDE (
+    [Receita Bruta] - [Receita Mês Anterior],
+    [Receita Mês Anterior]
+)
+
+-- Formatação sugerida no Power BI:
+-- Receita Bruta, Custo Total, Margem Bruta, Ticket Médio: Moeda (R$).
+-- Margem % e Variação Mensal %: Percentual com 1 ou 2 casas.
+-- Pedidos e Unidades Vendidas: Número inteiro.
