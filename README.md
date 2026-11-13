@@ -51,6 +51,7 @@ Estudo de análise exploratória com 600 registros sintéticos de vendas. Inclui
 - [Código Python](projects/01-analise-varejo-python-sql/src/analise_vendas.py)
 - [Consultas SQL](projects/01-analise-varejo-python-sql/sql/consultas.sql)
 - [Base sintética CSV](projects/01-analise-varejo-python-sql/data/vendas_sinteticas.csv)
+- [Kit de montagem Power BI](projects/01-analise-varejo-python-sql/powerbi/README.md)
 
 ### 02 · Legal Operations Analytics
 
