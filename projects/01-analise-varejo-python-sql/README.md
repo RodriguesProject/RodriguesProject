@@ -2,9 +2,11 @@
 
 **Objetivo:** demonstrar um fluxo introdutório de análise de dados, desde a leitura e validação de uma base até a geração de indicadores e consultas SQL.
 
+![Receita mensal — base sintética](outputs/receita_mensal.png)
+
 ## Perguntas de negócio
 
-1. Qual foi a receita e a margem bruta por mês?
+1. Qual foi a receita, o custo estimado e a margem bruta por mês?
 2. Quais categorias geraram maior receita?
 3. Como os canais de venda se comparam?
 4. Quais regiões concentram as vendas?
@@ -37,7 +39,7 @@ Os resultados serão gravados em `outputs/` (resumos CSV e gráfico PNG).
 - `sql/consultas.sql`: exemplos de consultas analíticas.
 - `outputs/`: resultados produzidos ao executar o script.
 
-Para carregar no PostgreSQL, execute `sql/schema.sql` e depois use `\copy vendas FROM 'projects/01-analise-varejo-python-sql/data/vendas_sinteticas.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',')` no `psql`, ajustando o caminho conforme seu diretório de trabalho.
+Para carregar no PostgreSQL, execute `sql/schema.sql` e depois use `\\copy vendas FROM 'projects/01-analise-varejo-python-sql/data/vendas_sinteticas.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',')` no `psql`, ajustando o caminho conforme seu diretório de trabalho.
 
 ## Indicadores calculados
 
