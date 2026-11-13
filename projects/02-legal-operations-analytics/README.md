@@ -2,6 +2,8 @@
 
 **Objetivo:** demonstrar como dados operacionais podem apoiar o acompanhamento de uma carteira fictícia de demandas jurídicas.
 
+![Demandas em andamento por área — dados sintéticos](outputs/demandas_por_area.png)
+
 ## Perguntas de negócio
 
 - Quantas demandas estão em andamento?
@@ -12,7 +14,7 @@
 
 ## Tecnologias
 
-Python, Pandas, Matplotlib, PostgreSQL/SQL e conceitos de qualidade de dados.
+Python, Pandas, Matplotlib, PostgreSQL/SQL e conceitos de qualidade de dados; exemplos introdutórios de documentos e consultas MongoDB.
 
 ## Dados e privacidade
 
@@ -33,7 +35,7 @@ python src/analise_legal_ops.py
 - `data/`: base sintética.
 - `src/analise_legal_ops.py`: validação e indicadores.
 - `sql/`: estrutura e consultas PostgreSQL.
-- `mongodb/`: exemplos de documentos JSON para estudo NoSQL.
+- `mongodb/`: exemplos de documentos JSON e consultas para estudo NoSQL.
 - `outputs/`: relatórios gerados na execução.
 
 ## Indicadores
