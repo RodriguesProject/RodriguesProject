@@ -1,40 +1,50 @@
 # Projeto 02 — Legal Operations Analytics
 
-**Objetivo:** demonstrar como dados operacionais podem apoiar o acompanhamento de uma carteira fictícia de demandas jurídicas.
+Estudo demonstrativo de indicadores operacionais aplicados a uma carteira fictícia de demandas jurídicas. O objetivo é mostrar como organização e análise de dados podem apoiar o acompanhamento de operações.
 
 ![Demandas em andamento por área — dados sintéticos](outputs/demandas_por_area.png)
 
-## Perguntas de negócio
-- Quantas demandas estão em andamento?
-- Quantas têm prazo de referência vencido na data-base?
-- Como se distribuem por área, etapa e responsável?
-- Qual o valor referencial agregado da carteira aberta?
-- Qual a antiguidade média das demandas em andamento?
+## Objetivo
 
-## Tecnologias
-Python, Pandas, Matplotlib, PostgreSQL/SQL e exemplos introdutórios de MongoDB.
+Estruturar uma base fictícia de demandas e explorar indicadores de volume, distribuição, antiguidade e valores referenciais.
+
+## Perguntas analisadas
+
+- Quantas demandas estão em andamento?
+- Quantas possuem prazo de referência vencido na data-base?
+- Como as demandas se distribuem por área, etapa e responsável?
+- Qual é o valor referencial agregado da carteira aberta?
+- Qual é a antiguidade média das demandas em andamento?
+
+## Tecnologias e ferramentas
+
+Python, Pandas, Matplotlib, PostgreSQL, SQL e exemplos introdutórios de MongoDB.
 
 ## Dados e privacidade
-`data/demandas_sinteticas.csv` contém 180 registros artificiais. A data-base é 13/11/2026. Não há dados de clientes ou processos reais.
+
+O arquivo `data/demandas_sinteticas.csv` contém 180 registros artificiais. A data-base utilizada é 13/11/2026. Não há dados de clientes, escritórios ou processos reais.
 
 ## Execução
-```bash
+
+Na raiz do repositório:
+
+```powershell
 python -m venv .venv
-# Windows PowerShell: .venv\Scripts\Activate.ps1
-# Linux/macOS: source .venv/bin/activate
-pip install -r requirements.txt
-python src/analise_legal_ops.py
+.\.venv\Scripts\Activate.ps1
+pip install -r projects/02-legal-operations-analytics/requirements.txt
+python projects/02-legal-operations-analytics/src/analise_legal_ops.py
 ```
 
+Em Linux/macOS, ative o ambiente com `source .venv/bin/activate`.
+
 ## Estrutura
+
 - `data/`: base sintética.
-- `src/`: validação e indicadores.
-- `sql/`: schema e consultas PostgreSQL.
-- `mongodb/`: exemplo de documento e consultas NoSQL.
-- `outputs/`: relatórios e gráfico.
+- `src/`: código de validação e geração de indicadores.
+- `sql/`: estrutura e consultas PostgreSQL.
+- `mongodb/`: exemplos de documentos e consultas NoSQL.
+- `outputs/`: gráfico e resultados da análise.
 
-## Consultas adicionais
-Inclui análise de carga por responsável e faixas de antiguidade, além de contagem condicional e agregações.
+## Limitações e interpretação
 
-## Limitações
-O campo `prazo_referencia` é um atributo fictício para análise de dados. Não representa prazo processual calculado conforme lei, intimação, suspensão ou calendário forense. O projeto não recomenda decisões sobre processos reais.
+O campo `prazo_referencia` é um atributo fictício utilizado para exercício analítico. Não corresponde a prazo processual calculado conforme legislação, intimações, suspensões ou calendário forense. O projeto não realiza análise jurídica nem recomenda decisões sobre processos reais.
