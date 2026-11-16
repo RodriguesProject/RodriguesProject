@@ -1,48 +1,63 @@
 # Projeto 01 — Análise de Varejo com Python e SQL
 
-**Objetivo:** demonstrar um fluxo introdutório de análise de dados, da leitura e validação de uma base à geração de indicadores e consultas SQL.
+Estudo demonstrativo de análise de dados aplicado a um cenário de varejo fictício. O projeto percorre etapas introdutórias de leitura, validação, exploração e apresentação de indicadores.
 
 ![Receita mensal — base sintética](outputs/receita_mensal.png)
 
-## Perguntas de negócio
-1. Qual foi a receita, o custo estimado e a margem bruta por mês?
-2. Quais categorias geraram maior receita?
-3. Como os canais de venda se comparam?
-4. Quais regiões concentram as vendas?
+## Objetivo
 
-## Tecnologias
+Explorar uma base de vendas e produzir indicadores que ajudem a responder perguntas básicas de negócio.
+
+## Perguntas analisadas
+
+- Como receita, custo estimado e margem bruta variam por mês?
+- Quais categorias apresentam maior receita?
+- Como os canais de venda se comparam?
+- Como as vendas se distribuem entre regiões?
+
+## Tecnologias e ferramentas
+
 Python, Pandas, Matplotlib, PostgreSQL e SQL.
 
-## Dados
-`data/vendas_sinteticas.csv` contém 600 registros artificiais. Não são dados de clientes ou empresas reais.
+## Dados utilizados
 
-## Como executar
-```bash
+O arquivo `data/vendas_sinteticas.csv` contém 600 registros artificiais, criados para fins didáticos. Não representa transações, clientes ou empresas reais.
+
+## Execução
+
+Na raiz do repositório:
+
+```powershell
 python -m venv .venv
-# Windows PowerShell: .venv\Scripts\Activate.ps1
-# Linux/macOS: source .venv/bin/activate
-pip install -r requirements.txt
-python src/analise_vendas.py
+.\.venv\Scripts\Activate.ps1
+pip install -r projects/01-analise-varejo-python-sql/requirements.txt
+python projects/01-analise-varejo-python-sql/src/analise_vendas.py
 ```
 
+Em Linux/macOS, ative o ambiente com `source .venv/bin/activate`.
+
 ## Estrutura
-- `data/`: base sintética.
-- `src/analise_vendas.py`: validação, métricas e visualização.
-- `sql/schema.sql`: estrutura PostgreSQL.
-- `sql/consultas.sql`: consultas analíticas.
-- `outputs/`: relatórios e gráfico.
 
-## Consultas SQL adicionais
-O arquivo de consultas inclui funções de janela (`LAG`, `ROW_NUMBER`), variação mensal e identificação do produto de maior receita por categoria.
+- `data/`: base sintética utilizada na análise.
+- `src/analise_vendas.py`: leitura, validação, métricas e visualização.
+- `sql/schema.sql`: estrutura relacional para PostgreSQL.
+- `sql/consultas.sql`: consultas de análise.
+- `outputs/`: gráfico e resultados gerados.
+- `powerbi/`: guia e recursos para montagem de painel no Power BI.
 
-## Limitações
-Exercício com dados artificiais. Não contempla impostos, devoluções, frete, descontos complexos ou sazonalidade validada. Indicadores didáticos, sem uso comercial.
+## Consultas SQL
 
-## Kit Power BI
+O conjunto de consultas inclui funções de janela, como `LAG` e `ROW_NUMBER`, variação mensal e identificação do produto de maior receita por categoria.
 
-O diretório `powerbi/` contém um guia para montar o dashboard no Power BI Desktop, medidas DAX, calendário e tema visual. A entrega inclui recursos de preparação, não um arquivo `.pbix` pronto.
+## Power BI
 
-- [Guia de montagem do painel](powerbi/README.md)
+O diretório `powerbi/` contém guia de montagem, medidas DAX, tabela calendário e tema visual. Os arquivos são recursos para construção do painel; não há um arquivo `.pbix` pronto nesta entrega.
+
+- [Guia de montagem](powerbi/README.md)
 - [Medidas DAX](powerbi/MEDIDAS.dax)
 - [Tabela calendário](powerbi/CALENDARIO.dax)
 - [Tema visual](powerbi/TEMA_RODRIGUES.json)
+
+## Limitações
+
+Trata-se de um exercício com dados artificiais. A análise não contempla integralmente impostos, devoluções, frete, descontos complexos ou sazonalidade validada. Os indicadores são didáticos e não devem ser interpretados como resultados comerciais reais.
