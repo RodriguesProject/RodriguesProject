@@ -70,12 +70,13 @@ Estudo de análise de dados aplicada à gestão de demandas e processos, com pre
 - Bacharelado em Administração — UNIVILLE
 - Bacharelado em Direito — FCJ
 - Carreira Tech – Trilha Análise de Dados — SCTEC/SENAI (em andamento)
+- Formação complementar certificada em perícia judicial, assistência técnica judicial, documentoscopia, grafoscopia e perícia grafotécnica (90 horas, Curso Beta, 2023)
 
 ### Contato
 
 - **LinkedIn:** [linkedin.com/in/thiago-rodrigues-2112188b](https://www.linkedin.com/in/thiago-rodrigues-2112188b)
 - **Localização:** Joinville, Santa Catarina, Brasil
-- **Interesse:** oportunidades remotas no Brasil e posições híbridas/presenciais em Joinville e região.
+- **Disponibilidade:** oportunidades remotas no Brasil e internacionais; híbridas/presenciais em Joinville e região.
 
 ---
 
@@ -128,12 +129,13 @@ A demonstrative project applying data analysis to operational demand and process
 - Bachelor's Degree in Business Administration — UNIVILLE, Brazil
 - Bachelor's Degree in Law — FCJ, Brazil
 - Data Analytics Learning Track — SCTEC/SENAI, Brazil (in progress)
+- 90 hours of certified complementary training in judicial expertise, judicial technical assistance, document examination, graphoscopy, and handwriting examination (Curso Beta, 2023)
 
 ### Contact
 
 - **LinkedIn:** [linkedin.com/in/thiago-rodrigues-2112188b](https://www.linkedin.com/in/thiago-rodrigues-2112188b)
 - **Location:** Joinville, Santa Catarina, Brazil
-- **Opportunities:** Remote positions in Brazil and hybrid/on-site opportunities in Joinville and surrounding areas.
+- **Availability:** Remote opportunities in Brazil and internationally; hybrid/on-site opportunities in Joinville and surrounding areas.
 
 ---
 
