@@ -1,6 +1,11 @@
 # Thiago Rodrigues
 
 <p align="center">
+  <a href="https://github.com/RodriguesProject/Thiago_Rodrigues_Analise_Varejo_T8/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/RodriguesProject/Thiago_Rodrigues_Analise_Varejo_T8/tests.yml?branch=main&label=Retail%20Analytics%20CI" alt="Retail Analytics CI"></a>
+  <a href="https://github.com/RodriguesProject/Modulariza-o-em-Python-para-Limpeza-e-Tratamento-de-dados/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/RodriguesProject/Modulariza-o-em-Python-para-Limpeza-e-Tratamento-de-dados/tests.yml?branch=main&label=Data%20Cleaning%20CI" alt="Data Cleaning CI"></a>
+</p>
+
+<p align="center">
   <strong>Business Analysis · Gestão de Processos · Business Operations · Legal Operations & Legal Tech</strong><br>
   <strong>Data Analytics em desenvolvimento | Administração e Direito</strong>
 </p>
