@@ -120,16 +120,3 @@ Python, Pandas, NumPy, Matplotlib, SQL, PostgreSQL, and NoSQL concepts. These ar
 ---
 
 **Transparência | Transparency:** Portfolio repositories are educational or demonstrative unless explicitly stated otherwise. Synthetic datasets do not represent real clients, legal cases, companies, or professional outcomes. Technical skills are described according to the current learning stage.
-
-
-## Trilha de domínio técnico do portfólio
-
-Estou organizando o estudo dos projetos por categoria, com leitura orientada do código, exercícios de alteração, testes e simulações de entrevistas técnicas. O material é um roteiro de aprendizagem: não substitui a prática nem significa que todas as tecnologias já estejam dominadas.
-
-- [Guia geral de domínio técnico](GUIA_DOMINIO_TECNICO.md)
-- [01 — Análise de dados de varejo](estudo_01_analise_de_dados_varejo.md)
-- [02 — Qualidade, limpeza e modularização de dados](estudo_02_qualidade_e_limpeza_de_dados.md)
-- [03 — Business Operations e Legal Operations Analytics](estudo_03_business_operations_e_legal_ops.md)
-- [04 — Business Analysis e gestão de processos](estudo_04_business_analysis_processos.md)
-- [05 — Automação administrativa e triagem](estudo_05_automacao_triagem.md)
-- [06 — Perfil GitHub e defesa do portfólio](estudo_06_perfil_github_e_entrevista.md)
