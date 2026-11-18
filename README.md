@@ -1,146 +1,117 @@
 # Thiago Rodrigues
 
 <p align="center">
-  <strong>Business Analysis · Business Operations · Process Improvement · Data Analytics (in development) · Legal Operations</strong><br>
-  <strong>Português | English</strong>
+  <strong>Business Analysis · Gestão de Processos · Business Operations · Legal Operations & Legal Tech</strong><br>
+  <strong>Data Analytics em desenvolvimento | Administração e Direito</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-rodrigues-2112188b/">LinkedIn</a> ·
   <a href="https://github.com/RodriguesProject">GitHub</a> ·
-  <a href="https://github.com/RodriguesProject/business-operations-analytics">Featured analytics project</a>
-</p>
-
-<p align="center">
-  <img alt="Python — fundamentals" src="https://img.shields.io/badge/Python-fundamentals-3776AB?logo=python&logoColor=white">
-  <img alt="SQL — fundamentals" src="https://img.shields.io/badge/SQL-fundamentals-4479A1?logo=postgresql&logoColor=white">
-  <img alt="Pandas — learning" src="https://img.shields.io/badge/Pandas-learning-150458?logo=pandas&logoColor=white">
-  <img alt="PostgreSQL — fundamentals" src="https://img.shields.io/badge/PostgreSQL-fundamentals-4169E1?logo=postgresql&logoColor=white">
-  <img alt="MongoDB — fundamentals" src="https://img.shields.io/badge/MongoDB-fundamentals-47A248?logo=mongodb&logoColor=white">
+  <a href="https://github.com/RodriguesProject/business-operations-analytics">Projeto em destaque</a>
 </p>
 
 ---
 
-## 🇧🇷 Português
+## 🇧🇷 Sobre
 
-### Apresentação
+Sou bacharel em **Administração** e **Direito**, com mais de 25 anos de trajetória profissional em atividades administrativas, operacionais e jurídicas. Minha experiência inclui atuação no setor jurídico desde 2007 e advocacia desde 2011, combinando visão de negócios, gestão de processos, análise documental, contratos, avaliação de riscos, negociação e resolução estruturada de problemas.
 
-Sou bacharel em **Administração** e **Direito**, com experiência profissional no setor jurídico desde 2007 e trajetória em gestão de operações e rotinas administrativas. Minha atuação envolve análise de informações, análise documental, gestão de processos, contratos, prevenção de riscos, conformidade, negociação e resolução estruturada de problemas.
+Ao longo da carreira, participei de iniciativas de organização operacional, melhoria de processos e implantação de controles, incluindo:
 
-Atualmente, desenvolvo competências em **Business Analysis, análise de processos e Análise de Dados** por meio da Carreira Tech – Trilha Análise de Dados (SCTEC/SENAI).
+- **Gestão de estoques:** estruturação de controle de materiais, catalogação, organização física, movimentações e reposição.
+- **Melhoria de operações:** desenvolvimento de fluxo operacional inspirado em linha de produção para organizar o processamento de pagamentos e apoiar o controle de erros.
+- **Planejamento estratégico:** participação nos estudos, elaboração e implantação de planejamento, definição de metas e organização de responsabilidades.
+- **Transformação digital:** digitalização documental e adaptação de procedimentos operacionais aos sistemas eletrônicos do Poder Judiciário, incluindo e-SAJ e eproc.
 
-### Áreas de interesse
+Atualmente, amplio essa trajetória por meio da **Carreira Tech – Trilha Análise de Dados (SCTEC/SENAI)**, desenvolvendo conhecimentos em Python, Pandas, NumPy, Matplotlib, SQL e PostgreSQL. Também desenvolvo projetos demonstrativos para aplicar conceitos de análise de negócios, processos, preparação de dados e indicadores operacionais.
 
-- Business Analysis e análise de requisitos
-- Business Operations e melhoria de processos
-- Data Analytics e qualidade da informação
+### Direcionamento profissional
+
+- Business Analysis e análise de negócios
+- Gestão, mapeamento e melhoria de processos
+- Business Operations e controles gerenciais
 - Legal Operations e Legal Tech
-- Gestão documental, contratos, riscos e conformidade
+- Transformação digital e gestão de informações
+- Data Analytics — área de desenvolvimento técnico
 
-### Conhecimentos em desenvolvimento
+### Conhecimentos tecnológicos em desenvolvimento
 
-| Área | Conhecimentos | Nível apresentado |
-|---|---|---|
-| Programação | Python, Java | Fundamentos / em formação |
-| Análise de dados | Pandas, NumPy, Matplotlib | Em formação |
-| Banco relacional | SQL, PostgreSQL | Fundamentos |
-| Banco NoSQL | MongoDB | Fundamentos |
+| Área | Tecnologias e conhecimentos |
+|---|---|
+| Programação e análise | Python |
+| Manipulação e análise de dados | Pandas, NumPy |
+| Visualização | Matplotlib |
+| Bancos de dados | SQL, PostgreSQL |
+| Dados não relacionais | NoSQL, MongoDB |
 
-**Formação atual:** Carreira Tech – Trilha Análise de Dados, SCTEC/SENAI. A etapa de Manipulação de Dados com Python e SQL está prevista até 11/12/2026; a etapa de Gestão de Dados com Arquitetura Moderna está programada para 25/01 a 28/05/2027.
+As tecnologias acima são apresentadas como conhecimentos em desenvolvimento, de acordo com a formação e os projetos publicados. Não representam, por si só, experiência profissional avançada.
 
-### Portfólio de projetos
+## Portfólio
 
-Os projetos são estudos demonstrativos, com dados sintéticos, criados para documentar o desenvolvimento de competências em análise de negócios, processos e dados.
+Os repositórios abaixo documentam estudos e projetos de aprendizagem. Quando indicado, são demonstrações com dados sintéticos; não representam clientes, processos reais ou resultados profissionais.
 
-#### Projeto em destaque
+### Projeto em destaque
 
 **[Business Operations Analytics — Análise de Dados de Demandas e Processos](https://github.com/RodriguesProject/business-operations-analytics)**
 
-Estudo de análise de dados aplicada à gestão de demandas e processos, com preparação e validação de dados, indicadores operacionais, análise exploratória, visualizações em Python e consultas SQL. O contexto é administrativo/jurídico e todos os registros são fictícios.
+Estudo demonstrativo de análise de dados aplicada à gestão de demandas e processos. Inclui perguntas de negócio, preparação e validação de dados, indicadores operacionais, análise exploratória, visualizações em Python e consultas SQL. A base é sintética e os resultados se limitam ao conjunto fictício utilizado.
 
-#### Outros projetos
+### Outros repositórios
 
-1. **Análise de Varejo com Python e SQL** — análise exploratória de 600 registros sintéticos de vendas, métricas de receita, custo e margem, consultas SQL e visualização.
-2. **Legal Operations Analytics** — estudo de indicadores operacionais com 180 registros jurídicos fictícios, distribuição por área e etapa, SQL e exemplos MongoDB.
-3. **Business Analysis — Mapeamento de Processos** — estudo de processo fictício com stakeholders, visão AS-IS/TO-BE, requisitos e histórias de usuário.
-4. **Automação de Triagem Jurídico-Administrativa** — automação demonstrativa em Python para validar campos, identificar duplicidades e organizar solicitações fictícias.
+- **[Análise de Varejo com Python](https://github.com/RodriguesProject/Thiago_Rodrigues_Analise_Varejo_T8)** — notebook de estudo de análise exploratória de dados de varejo.
+- **[Modularização em Python para Limpeza e Tratamento de Dados](https://github.com/RodriguesProject/Modulariza-o-em-Python-para-Limpeza-e-Tratamento-de-dados)** — repositório de estudo voltado à modularização de rotinas de tratamento de dados.
+- **[SC-TEC — Análise de Dados com Python](https://github.com/RodriguesProject/sc-tec-analise-dados-python)** — materiais e exercícios relacionados à trilha de formação.
+- **[Python Exercises](https://github.com/RodriguesProject/python_exercises)** — exercícios de aprendizagem e prática de fundamentos.
 
-### Formação acadêmica e tecnológica
+## Formação
 
-- Bacharelado em Administração — UNIVILLE
-- Bacharelado em Direito — FCJ
+- Bacharelado em Administração — Universidade da Região de Joinville (UNIVILLE)
+- Bacharelado em Direito — Faculdade Cenecista de Joinville (FCJ)
 - Carreira Tech – Trilha Análise de Dados — SCTEC/SENAI (em andamento)
-- Formação complementar certificada em perícia judicial, assistência técnica judicial, documentoscopia, grafoscopia e perícia grafotécnica (90 horas, Curso Beta, 2023)
+- Formação complementar — Curso Beta: 90 horas em perícia judicial, assistência técnica judicial, documentoscopia, grafoscopia e perícia grafotécnica
 
-### Contato
+## Contato
 
 - **LinkedIn:** [linkedin.com/in/thiago-rodrigues-2112188b](https://www.linkedin.com/in/thiago-rodrigues-2112188b)
 - **Localização:** Joinville, Santa Catarina, Brasil
-- **Disponibilidade:** oportunidades remotas no Brasil e internacionais; híbridas/presenciais em Joinville e região.
+- **Disponibilidade:** oportunidades remotas no Brasil e internacionais; híbridas ou presenciais em Joinville e região.
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 Professional Summary
 
-### Professional Summary
+I hold bachelor's degrees in **Business Administration** and **Law**, with more than 25 years of professional experience across administrative, operational, and legal activities. My background includes work in the legal sector since 2007 and legal practice since 2011, combining business perspective, process management, document analysis, contracts, risk assessment, negotiation, and structured problem-solving.
 
-I hold bachelor's degrees in **Business Administration** and **Law**, with professional experience in the legal sector since 2007 and a background in operations management and administrative routines. My experience includes information analysis, document review, process management, contracts, risk prevention, compliance, negotiation, and structured problem-solving.
+Throughout my career, I have contributed to operational organization, process improvement, and the implementation of controls, including inventory control, workflow improvement, strategic planning, and the digitization of documents and procedures for electronic court systems.
 
-I am currently developing skills in **Business Analysis, Process Analysis, and Data Analytics** through the SCTEC/SENAI Data Analytics learning track in Brazil.
+I am currently expanding this background through the **SCTEC/SENAI Data Analytics learning track**, developing skills in Python, Pandas, NumPy, Matplotlib, SQL, and PostgreSQL. My GitHub repositories document educational and demonstrative projects related to business analysis, processes, data preparation, and operational indicators.
 
-### Areas of Interest
+### Professional focus
 
-- Business Analysis and requirements analysis
-- Business Operations and process improvement
-- Data Analytics and data quality
+- Business Analysis
+- Process Management and Improvement
+- Business Operations
 - Legal Operations and Legal Tech
-- Document management, contracts, risk, and compliance
+- Digital Transformation
+- Data Analytics (currently developing technical skills)
 
-### Technical Skills in Development
-
-| Area | Skills | Current Level |
-|---|---|---|
-| Programming | Python, Java | Fundamentals / learning |
-| Data Analytics | Pandas, NumPy, Matplotlib | In development |
-| Relational Databases | SQL, PostgreSQL | Fundamentals |
-| NoSQL Databases | MongoDB | Fundamentals |
-
-**Current learning path:** SCTEC/SENAI – Data Analytics. The Python and SQL data manipulation stage is scheduled through December 11, 2026; the Modern Data Architecture and Data Management stage is scheduled from January 25 to May 28, 2027.
-
-### Project Portfolio
-
-These repositories contain educational and demonstrative projects using synthetic data. They document my ongoing development in business analysis, process improvement, and data analytics.
-
-#### Featured Project
+### Featured project
 
 **[Business Operations Analytics — Demand and Process Data Analysis](https://github.com/RodriguesProject/business-operations-analytics)**
 
-A demonstrative project applying data analysis to operational demand and process management. It includes data preparation and validation, operational KPIs, exploratory analysis, Python visualizations, and SQL queries. The administrative/legal setting is illustrative; all records are synthetic.
+An educational project applying data analysis to operational demand and process management. It covers business questions, data preparation and validation, operational indicators, exploratory analysis, Python visualizations, and SQL queries. The dataset is synthetic and the results apply only to the illustrative dataset.
 
-#### Additional Projects
+### Technical learning
 
-1. **Retail Analytics with Python and SQL** — exploratory analysis of 600 synthetic sales records, revenue, cost and margin metrics, SQL queries, and visualizations.
-2. **Legal Operations Analytics** — operational metrics based on 180 fictional legal records, area and workflow analysis, SQL, and MongoDB examples.
-3. **Business Analysis — Process Mapping** — a fictional process study covering stakeholders, AS-IS/TO-BE mapping, requirements, and user stories.
-4. **Legal-Administrative Intake Automation** — a Python demonstration for field validation, duplicate identification, and organizing fictional requests.
-
-### Education and Professional Development
-
-- Bachelor's Degree in Business Administration — UNIVILLE, Brazil
-- Bachelor's Degree in Law — FCJ, Brazil
-- Data Analytics Learning Track — SCTEC/SENAI, Brazil (in progress)
-- 90 hours of certified complementary training in judicial expertise, judicial technical assistance, document examination, graphoscopy, and handwriting examination (Curso Beta, 2023)
+Python, Pandas, NumPy, Matplotlib, SQL, PostgreSQL, and NoSQL concepts. These are learning and portfolio skills, not claims of advanced professional experience.
 
 ### Contact
 
 - **LinkedIn:** [linkedin.com/in/thiago-rodrigues-2112188b](https://www.linkedin.com/in/thiago-rodrigues-2112188b)
 - **Location:** Joinville, Santa Catarina, Brazil
-- **Availability:** Remote opportunities in Brazil and internationally; hybrid/on-site opportunities in Joinville and surrounding areas.
+- **Availability:** Remote opportunities in Brazil and internationally; hybrid/on-site in Joinville and surrounding areas.
 
 ---
 
-## Transparency / Transparência
-
-All portfolio projects are educational demonstrations. Datasets are synthetic and do not represent real clients, cases, companies, or professional outcomes. Technologies are described according to the current learning stage and are not presented as advanced professional experience.
-
-*Este perfil é atualizado conforme a evolução dos estudos e dos projetos.*
+**Transparência | Transparency:** Portfolio repositories are educational or demonstrative unless explicitly stated otherwise. Synthetic datasets do not represent real clients, legal cases, companies, or professional outcomes. Technical skills are described according to the current learning stage.
