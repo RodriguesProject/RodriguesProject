@@ -1,0 +1,21 @@
+flowchart TD
+    A[Necessidade da obra ou manutenção] --> B[Consultar catálogo mestre]
+    B --> C{SKU e unidade validados?}
+    C -- Não --> D[Revisar cadastro e especificação]
+    D --> B
+    C -- Sim --> E{Há saldo disponível?}
+    E -- Sim --> F{Material será levado ao veículo?}
+    F -- Sim --> G[Registrar transferência depósito → veículo]
+    F -- Não --> H[Separar material no depósito]
+    G --> I[Registrar consumo/saída no local de uso]
+    H --> I
+    E -- Não --> J[Registrar no checklist de aquisição]
+    J --> K[Selecionar fornecedor e cotar]
+    K --> L{Compra aprovada?}
+    L -- Não --> M[Revisar quantidade, prioridade ou cotação]
+    M --> J
+    L -- Sim --> N[Emitir pedido e acompanhar entrega]
+    N --> O[Conferir material recebido]
+    O --> P[Registrar entrada no estoque]
+    P --> Q[Atualizar indicadores e reposição]
+    I --> Q
