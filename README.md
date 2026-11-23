@@ -62,6 +62,10 @@ Os repositórios abaixo documentam estudos e projetos de aprendizagem. Quando in
 
 Estudo demonstrativo de análise de dados aplicada à gestão de demandas e processos. Inclui perguntas de negócio, preparação e validação de dados, indicadores operacionais, análise exploratória, visualizações em Python e consultas SQL. A base é sintética e os resultados se limitam ao conjunto fictício utilizado.
 
+### Projeto de gestão e operações
+
+- **[Controle de Estoque para Construção Civil](projects/05-controle-estoque-obras/README.md)** — documentação de uma solução de controle de materiais com depósito geral, estoque móvel veicular restrito, movimentações, reposição, inventário e checklist de aquisições.
+
 ### Outros repositórios
 
 - **[Análise de Varejo com Python](https://github.com/RodriguesProject/Thiago_Rodrigues_Analise_Varejo_T8)** — notebook de estudo de análise exploratória de dados de varejo.
